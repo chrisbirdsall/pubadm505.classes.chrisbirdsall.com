@@ -1,0 +1,336 @@
+---
+title: "Introduction to HR in Public Service"
+subtitle: "PUBADM 505"
+author: "Chris Birdsall"
+date: "2026-08-31"
+format:
+  revealjs:
+    theme: [default, pubadm505.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    width: 1600
+    height: 900
+    margin: 0.04
+    footer: "PUBADM 505 · Personnel Management"
+    embed-resources: true
+---
+
+## Outline {.title-slide data-background-color="#102a43"}
+
+::: {.hero-statement}
+- The importance of people for public service
+- What is human resource management (HRM)?
+- Basic components of HRM in government and nonprofit organizations
+- Thinking about HRM in government and nonprofit organizations
+:::
+
+::: {.hero-question .fragment}
+Or why we have a separate course on this and do not just send you to the business school.
+:::
+
+## Running Government and Nonprofit Organizations
+
+::: {.lead-in}
+Four main types of resources:
+:::
+
+::: {.three-words}
+<div class="word-block fragment" data-fragment-index="0"><span class="card-heading">Human</span><span class="fragment human-flag" data-fragment-index="4"></span></div>
+<div class="word-block fragment" data-fragment-index="1"><span class="card-heading">Financial</span></div>
+<div class="word-block fragment" data-fragment-index="2"><span class="card-heading">Information</span></div>
+<div class="word-block fragment" data-fragment-index="3"><span class="card-heading">Time</span></div>
+:::
+
+::: {.takeaway .fragment fragment-index="4"}
+Without motivated people, the rest of these resources will be squandered.
+:::
+
+## The Importance of People
+
+- Human resources are critical to organizational performance in government and nonprofit organizations
+- In government —
+  - People are the hands and feet of government, bringing policy to life
+- In nonprofits —
+  - People have the opportunity to tailor their public service to different communities of people to try to make a difference
+- When people work in public service, they have expectations for that employment relationship
+
+::: {.takeaway .fragment}
+HRM is the aspect of management that accentuates and guides the human processes involved in the pursuit of public purposes.
+:::
+
+## What is Human Resource Management? {.section-slide data-background-color="#102a43"}
+
+<aside class="notes">Word association: when I say "human resource management" or "personnel administration," what comes to mind? Have the students list and explain terms, list them on the board, and discuss. Use this discussion to transition to the next slide.</aside>
+
+## The Scope of HRM
+
+::: {.lead-in}
+It encompasses many different functions:
+:::
+
+::: {.system-grid}
+<div class="system-item"><span class="card-heading">Job design</span></div>
+<div class="system-item"><span class="card-heading">Hiring and firing</span></div>
+<div class="system-item"><span class="card-heading">Compensation and benefits</span></div>
+<div class="system-item"><span class="card-heading">Training and development</span></div>
+<div class="system-item"><span class="card-heading">Performance appraisal</span></div>
+<div class="system-item"><span class="card-heading">Labor-management relations</span></div>
+<div class="system-item"><span class="card-heading">Work-life balance issues</span></div>
+:::
+
+<aside class="notes">Highlight how many of the classes over the course of the semester will involve deeper dives into these different functions.</aside>
+
+## Human Capital
+
+::: {.incremental}
+- Effective HRM is about building a strong complement of human capital and using it well
+- What is human capital?
+  - Human capital brought to an organization makes the difference between success and failure
+- Human capital is critical for organizational performance
+- To harness the power of human capital, HR managers must be part of the strategic direction-setting of the organization
+:::
+
+<aside class="notes">This term captures what people bring to organizations; it is the value they add. It includes all their knowledge, skills, abilities, and competencies.</aside>
+
+## Human Capital, HRM, and Organizational Performance
+
+```{=html}
+<div class="figure-panel" style="width: 1250px; margin: 0 auto;">
+<svg viewBox="0 0 1400 700" role="img" aria-label="Framework linking planning and goal setting, implementation, and evaluating results: strategic alignment provides direction to leadership and knowledge management, results-oriented performance culture, and talent management, which deliver outcomes to accountability, which provides performance information back to planning." style="width:100%; font-family: 'Avenir Next', 'Aptos', sans-serif;">
+  <defs>
+    <marker id="ah" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" refX="22" refY="13" orient="auto-start-reverse">
+      <path d="M2,2 L24,13 L2,24 z" fill="#111"/>
+    </marker>
+  </defs>
+  <g>
+    <rect x="130" y="20" width="240" height="72" fill="white" stroke="#111" stroke-width="2.5"/>
+    <text x="250" y="50" text-anchor="middle" font-size="21" font-weight="700" fill="#111">PLANNING AND</text>
+    <text x="250" y="76" text-anchor="middle" font-size="21" font-weight="700" fill="#111">GOAL SETTING</text>
+    <rect x="580" y="30" width="240" height="52" fill="white" stroke="#111" stroke-width="2.5"/>
+    <text x="700" y="63" text-anchor="middle" font-size="21" font-weight="700" fill="#111">IMPLEMENTATION</text>
+    <rect x="1030" y="20" width="240" height="72" fill="white" stroke="#111" stroke-width="2.5"/>
+    <text x="1150" y="50" text-anchor="middle" font-size="21" font-weight="700" fill="#111">EVALUATING</text>
+    <text x="1150" y="76" text-anchor="middle" font-size="21" font-weight="700" fill="#111">RESULTS</text>
+  </g>
+  <g class="fragment">
+    <rect x="140" y="286" width="220" height="72" fill="#ececec" stroke="#666" stroke-width="1.5"/>
+    <text x="250" y="316" text-anchor="middle" font-size="22" fill="#111">Strategic</text>
+    <text x="250" y="343" text-anchor="middle" font-size="22" fill="#111">Alignment</text>
+    <line x1="368" y1="322" x2="540" y2="322" stroke="#111" stroke-width="5" marker-end="url(#ah)"/>
+  </g>
+  <g class="fragment">
+    <rect x="550" y="140" width="300" height="72" fill="#ececec" stroke="#666" stroke-width="1.5"/>
+    <text x="700" y="170" text-anchor="middle" font-size="22" fill="#111">Leadership &amp; Knowledge</text>
+    <text x="700" y="197" text-anchor="middle" font-size="22" fill="#111">Management</text>
+    <rect x="550" y="282" width="300" height="80" fill="#ececec" stroke="#666" stroke-width="1.5"/>
+    <text x="700" y="315" text-anchor="middle" font-size="22" font-weight="700" fill="#111">Results-Oriented</text>
+    <text x="700" y="342" text-anchor="middle" font-size="22" font-weight="700" fill="#111">Performance Culture</text>
+    <rect x="550" y="432" width="300" height="58" fill="#ececec" stroke="#666" stroke-width="1.5"/>
+    <text x="700" y="468" text-anchor="middle" font-size="22" fill="#111">Talent Management</text>
+    <line x1="700" y1="224" x2="700" y2="270" stroke="#111" stroke-width="5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+    <line x1="700" y1="374" x2="700" y2="420" stroke="#111" stroke-width="5" marker-start="url(#ah)" marker-end="url(#ah)"/>
+  </g>
+  <g class="fragment">
+    <line x1="858" y1="322" x2="1030" y2="322" stroke="#111" stroke-width="5" marker-end="url(#ah)"/>
+    <rect x="1040" y="292" width="220" height="60" fill="#ececec" stroke="#666" stroke-width="1.5"/>
+    <text x="1150" y="329" text-anchor="middle" font-size="22" fill="#111">Accountability</text>
+  </g>
+  <g class="fragment">
+    <rect x="140" y="545" width="220" height="58" fill="#111"/>
+    <text x="250" y="581" text-anchor="middle" font-size="22" font-weight="700" fill="white">Provides Direction</text>
+    <rect x="590" y="545" width="220" height="58" fill="#111"/>
+    <text x="700" y="581" text-anchor="middle" font-size="22" font-weight="700" fill="white">Delivers Outcomes</text>
+    <rect x="1010" y="540" width="280" height="70" fill="#111"/>
+    <text x="1150" y="568" text-anchor="middle" font-size="22" font-weight="700" fill="white">Provides Performance</text>
+    <text x="1150" y="595" text-anchor="middle" font-size="22" font-weight="700" fill="white">Information</text>
+    <line x1="368" y1="574" x2="580" y2="574" stroke="#111" stroke-width="5" marker-end="url(#ah)"/>
+    <line x1="818" y1="574" x2="1000" y2="574" stroke="#111" stroke-width="5" marker-end="url(#ah)"/>
+    <path d="M 1150 614 L 1150 646 Q 1150 662 1134 662 L 266 662 Q 250 662 250 646 L 250 618" fill="none" stroke="#111" stroke-width="4" marker-end="url(#ah)"/>
+  </g>
+</svg>
+</div>
+```
+
+<aside class="notes">THE STRATEGIC VIEW: how does managing people connect to organizational performance? Adapted from OPM's Human Capital Assessment and Accountability Framework (HCAAF). Read as the management cycle: strategic alignment (HR tied to mission) provides direction → leadership &amp; knowledge management, results-oriented performance culture, and talent management deliver outcomes → accountability measures results. Key feature is the feedback loop: performance information flows back into planning — a learning organization. Punchline: HR belongs in the room where strategy is set. Previews next week's strategic HRM class.
+
+HRM is about aligning human capital with the goals of the organization to achieve them and produce high performance. Also emphasize it is about building a learning organization where results are evaluated and used to make continuous improvements over time.</aside>
+
+## The System of HRM Functions
+
+```{=html}
+<div class="figure-panel" style="width: 1250px; margin: 0 auto;">
+<svg viewBox="0 0 1584 690" role="img" aria-label="Three grouped categories of HRM functions connected by arrows: standardizing (position management, compensation and benefits, legal rights and responsibilities, labor relations and collective bargaining), humanizing (recruitment, selection, training and development, grievance process, employee-friendly policies), and evaluating (performance appraisal, employee surveys, system performance)." style="width:100%; font-family: 'Avenir Next', 'Aptos', sans-serif;">
+  <defs>
+    <marker id="ah-pale" markerUnits="userSpaceOnUse" markerWidth="44" markerHeight="44" refX="34" refY="21" orient="auto">
+      <path d="M4,4 L40,21 L4,38 z" fill="#aec8e8"/>
+    </marker>
+  </defs>
+  <g>
+    <rect x="20" y="170" width="430" height="420" rx="35" fill="white" stroke="#5b9bd5" stroke-width="3"/>
+    <text x="48" y="238" font-size="26" fill="#111">&#8226; Position management</text>
+    <text x="48" y="283" font-size="26" fill="#111">&#8226; Compensation &amp; benefits</text>
+    <text x="48" y="328" font-size="26" fill="#111">&#8226; Legal rights &amp; responsibilities</text>
+    <text x="48" y="373" font-size="26" fill="#111">&#8226; Labor relations &amp; collective</text>
+    <text x="70" y="408" font-size="26" fill="#111">bargaining</text>
+    <rect x="105" y="520" width="380" height="95" rx="12" fill="#4f81bd"/>
+    <text x="295" y="584" text-anchor="middle" font-size="48" font-weight="500" fill="white">standardizing</text>
+  </g>
+  <g class="fragment">
+    <path d="M 330 650 Q 520 692 650 628" fill="none" stroke="#aec8e8" stroke-width="16" marker-end="url(#ah-pale)"/>
+    <rect x="560" y="180" width="430" height="430" rx="35" fill="white" stroke="#5b9bd5" stroke-width="3"/>
+    <text x="588" y="300" font-size="26" fill="#111">&#8226; Recruitment</text>
+    <text x="588" y="345" font-size="26" fill="#111">&#8226; Selection</text>
+    <text x="588" y="390" font-size="26" fill="#111">&#8226; Training &amp; development</text>
+    <text x="588" y="435" font-size="26" fill="#111">&#8226; Grievance process</text>
+    <text x="588" y="480" font-size="26" fill="#111">&#8226; Employee-friendly policies</text>
+    <rect x="640" y="105" width="340" height="110" rx="12" fill="#4f81bd"/>
+    <text x="810" y="178" text-anchor="middle" font-size="48" font-weight="500" fill="white">humanizing</text>
+  </g>
+  <g class="fragment">
+    <path d="M 1000 95 Q 1150 20 1270 100" fill="none" stroke="#aec8e8" stroke-width="16" marker-end="url(#ah-pale)"/>
+    <rect x="1100" y="170" width="440" height="430" rx="35" fill="white" stroke="#5b9bd5" stroke-width="3"/>
+    <text x="1128" y="238" font-size="26" fill="#111">&#8226; Performance appraisal</text>
+    <text x="1128" y="283" font-size="26" fill="#111">&#8226; Employee surveys</text>
+    <text x="1128" y="328" font-size="26" fill="#111">&#8226; System performance</text>
+    <rect x="1180" y="515" width="360" height="100" rx="12" fill="#4f81bd"/>
+    <text x="1360" y="582" text-anchor="middle" font-size="48" font-weight="500" fill="white">evaluating</text>
+  </g>
+</svg>
+</div>
+```
+
+<aside class="notes">THE OPERATIONAL VIEW: sorts HRM's everyday toolbox by the purpose each function serves. Standardizing = fairness through consistency (same rules for everyone). Humanizing = fairness through responsiveness (employees as individuals). Evaluating = feedback on both. Key tension: standardizing vs. humanizing — a good system holds them in balance. Contrast with the previous figure: that one looks up and out (HRM → organizational performance); this one looks inward (what HRM does day to day). Also a roadmap of the semester — most weeks deep-dive one box.
+
+Emphasize how HRM fits together HR functions in a system that ensures people are treated fairly, but their particular needs and differences are recognized (humanizing). The system also evaluates the functions and uses that information to make continuous improvements. This sets up the manager vs. employee activity on the next slide.</aside>
+
+## Activity: Manager vs. Employee {.activity-slide}
+
+::: {.activity-prompt}
+Which category matters most — standardizing, humanizing, or evaluating?
+:::
+
+1. **Left side of the room:** you are the HR manager. **Right side:** you are the employee.
+2. In groups of 3–4, rank the three categories from your assigned perspective — and be ready to defend your #1. *(8 minutes)*
+3. Each group reports its ranking; then we debate across the aisle.
+
+::: {.activity-close}
+Where do the two perspectives collide — and what tensions does that create for how HRM is designed?
+:::
+
+<aside class="notes">Keep the System of HRM Functions figure available to flip back to. Expect managers to lean standardizing/evaluating (fairness, defensibility, performance) and employees to lean humanizing (recognition, development, grievances). Push on the collisions: standardizing protects equity but can feel dehumanizing; evaluating drives improvement but can feel like surveillance. Land on the point that a good HRM system holds all three in tension — none is dispensable. Roughly 20–25 minutes total: 8 in groups, then report-outs and cross-room debate.</aside>
+
+## The Scope of HRM — Part 2
+
+- HRM is governed by laws:
+  - Some of which have endured for generations
+  - Some of which are modified by ever-evolving case law
+- How do we make sense of this complex array of venues, practices, policies, and legal requirements?
+- We do so by focusing on:
+  - The people involved
+  - How these processes work
+  - The ways in which people and processes combine to achieve the mission
+
+## Private Sector and Public Service HRM… What's the difference? {.section-slide data-background-color="#102a43"}
+
+## Public Service HRM
+
+- Expectations of the public service workforce are many
+  - Both performance standards and democratic standards
+- Beyond job skills, public servants are expected to embody public integrity and to perform their jobs from a position of partisan neutrality
+- They are expected to be representative of the constituencies served
+- Their actions are subject to public scrutiny
+- Processes imposed on these workers are designed to ensure fairness, organizational justice, and equity
+
+## Exercise: What does it mean to be a public servant? {.activity-slide}
+
+::: {.activity-prompt}
+What should the expectations be? Obligations?
+:::
+
+::: {.activity-close}
+What does this mean for managing people in public organizations?
+:::
+
+## Comparing Government and Nonprofit HRM {.section-slide data-background-color="#102a43"}
+
+## Government vs. Nonprofit: Similarities
+
+::: {.incremental}
+- Functions of HRM are mostly the same across government and nonprofit organizations
+- Both government and nonprofits need to think about values and accountability…
+- **BUT** — context matters:
+  - Laws
+  - Systems
+  - Capacity
+:::
+
+## Government vs. Nonprofit: Differences
+
+::: {.incremental}
+- Civil service systems: advantages and disadvantages?
+- Politics: How does partisan politics influence HRM in government?
+- Capacity: How does capacity influence differences between government and nonprofit organizations?
+:::
+
+<aside class="notes">Civil service systems: government often has more formalized HRM systems that require balancing stability with innovation and change. Many government employees have employment protections by law. Nonprofits do not have civil service systems and can be more agile — but employees have fewer protections compared to government. Politics: how does partisan politics influence HRM in government? In nonprofits, less of an issue. Capacity: how does capacity influence differences between government and nonprofit organizations?</aside>
+
+## The Role of Merit in HRM {.section-slide data-background-color="#102a43"}
+
+## Merit Principles
+
+- Codified in federal law
+- Merit principles were created for government employment; they attempt to capture principles of effective, equitable, and fair HRM
+- …so should be applicable to other types of organizations
+
+## The Merit Principles {.merit-framework}
+
+::: {.merit-intro}
+<span class="merit-kicker">Codified in federal law</span>
+:::
+
+::: {.principles}
+<div class="principle"><span class="card-heading">1</span>Employee selection is based on knowledge, skills, and ability through fair and open competition.</div>
+<div class="principle"><span class="card-heading">2</span>Job applicants and employees must be treated equitably with proper regard for their privacy and constitutional rights.</div>
+<div class="principle"><span class="card-heading">3</span>Employees must receive equal pay for work of equal value.</div>
+<div class="principle"><span class="card-heading">4</span>High standards of conduct are expected and concern for the public interest is foremost.</div>
+<div class="principle"><span class="card-heading">5</span>The workforce is to be guided by norms of efficiency and effectiveness.</div>
+<div class="principle"><span class="card-heading">6</span>Employees are to be retained based on their performance; inadequate performance is to be dealt with fairly and decisively.</div>
+<div class="principle"><span class="card-heading">7</span>Training of employees should focus on both individual and organizational performance.</div>
+<div class="principle"><span class="card-heading">8</span>Employees are to be protected from favoritism, political coercion, and arbitrary actions.</div>
+<div class="principle"><span class="card-heading">9</span>Employees are to be protected against reprisal for whistleblowing.</div>
+:::
+
+## Activity: Merit Principles in the Wild {.activity-slide}
+
+::: {.activity-prompt}
+Take the nine principles from paper to practice — in groups of 3–4:
+:::
+
+1. **Honored:** pick one principle you have seen genuinely upheld in a workplace. What made it work?
+2. **Violated:** pick one you have seen violated (no names needed). What happened, and what did it cost?
+3. **Missing:** is anything missing from the list? Would you add — or cut — a principle?
+
+[*(10 minutes in groups, then each group shares one story or proposal.)*]{style="font-size:.62em;"}
+
+::: {.activity-close}
+These were written for government — how well do they travel to nonprofits, or to the private sector?
+:::
+
+<aside class="notes">Flip back to the Merit Principles slide while groups work, or hand out a printed list. Groups of 3–4 gives four or five groups at current enrollment. In the debrief, take one item per group so everyone speaks; violations usually produce the richest discussion — press on what the violation cost the organization (turnover, morale, trust). The "missing/cut" question surfaces whether students think the principles are aspirational or enforceable. Close by previewing that Chapter 3 digs into merit systems in depth, so tonight is about intuitions, not doctrine. Roughly 20–25 minutes total.</aside>
+
+## Bringing it all together…
+
+- People are critical for government and nonprofit organizations in working toward organizational missions
+- Skillful management maximizes human capital
+- HRM is a system, involving many functions that promote different values and purposes
+- HRM is different in public service — government and nonprofit employees hold a public trust and need to be cognizant of what this means
+
+## Next week…
+
+::: {.closing-question}
+Strategic Human Resource Management: How does HRM connect to organizational performance?
+:::
