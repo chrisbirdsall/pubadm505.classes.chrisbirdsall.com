@@ -1,0 +1,255 @@
+---
+title: "Budget Reorganization in Urbanopolis"
+subtitle: "PUBADM 505 · Case discussion"
+author: "Chris Birdsall"
+date: "2026-09-14"
+format:
+  revealjs:
+    theme: [default, pubadm505.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    width: 1600
+    height: 900
+    margin: 0.04
+    footer: "PUBADM 505 · Personnel Management"
+    embed-resources: true
+---
+
+## Pat Alvarez's decision
+
+You are the new HR director in a growing city of more than one million residents.
+
+You must propose a smaller HR budget and a reorganization while developing the city's reduction-in-force policy.
+
+::: {.takeaway}
+How should HR preserve the capacity to serve the city under these constraints?
+:::
+
+<aside class="notes">Source: Brett S. Sharp, Budget Reorganization in the Urbanopolis Human Resources Department, Electronic Hallway (2008), assigned excerpt pp. 1–9, especially pp. 2–6. This classroom discussion uses the excerpt rather than the full budget simulation.</aside>
+
+## The budget target
+
+::: {.table-block .figures}
+
+| Current budget | Proposed budget | Required reduction |
+|---:|---:|---:|
+| $2,698,150 | $2,468,807 | $229,343 |
+
+:::
+
+- An **8.5% cut** in a budget that is about 97% salaries and benefits.
+- Average salary about **$35,000**; benefits a flat **$4,500** per employee.
+- New computers must come from labor savings. Surplus police computers are the temporary alternative.
+- The vacant **Risk Manager** is one of the 65 funded positions. Filling it uses the vacancy savings that now pay an overage employee (p. 6).
+- Recruitment advertising is **already overspent** this year (p. 5). Council wants a nationwide search.
+
+<aside class="notes">Source: case pp. 5–6 and 9. Dollar amounts reproduce the displayed budget summary. Multiplying the base by 8.5% gives $229,342.75, rounded to $229,343; the budget analyst's memo rounds it to "about $230,000." Salaries of $2,330,000 plus benefits of $293,000 equal $2,623,000, about 97.2% of the total. Let students do the arithmetic: at roughly $39,500 per average position, the target is about 5.8 positions. But only supervisory positions may be cut, and those pay more than average, so the real number is smaller and the choice of which ones matters more. Note the consistency check: 65 positions times $4,500 is $292,500, matching the benefits line.
+
+Risk Manager: the department currently pays 64 people (57 regular filled plus 7 overage) from 65 funded positions. After the cut the budget covers about 59 average positions, and one of them must be the Risk Manager. So the department will pay roughly five fewer people than today, and every one of the cuts must be a supervisory position. "Leave the Risk Manager vacant" is not available: Council ordered the search (p. 6). Advertising: p. 5 lists telephone, recruitment advertising, and professional contracts as overspent; the advertising line is $3,000 (p. 9).</aside>
+
+## The rules and competing demands
+
+- Cuts may fall only on **supervisory positions**.
+- Six classifications disappear from the management pay plan on July 1: *Assistant Director, Administrative Assistant, Secretary III, Administrative Officer, Operations Support Manager, Planner*.
+- The Council wants the vacant **Risk Manager** position filled through a nationwide search.
+- 65 budgeted positions, eight regular vacancies, and seven filled overage positions.
+- Union negotiations are coming, and HR must write the **citywide RIF policy** before the budget is final.
+
+<aside class="notes">Source: case pp. 4–8. Overage positions are not funded in the current budget and are offset by regular vacancies, so "use the vacancies" does not create new savings. The six deleted classifications come from Budget's fall report, Reducing Layers of Supervision (p. 4). HR recommends and the City Manager approves organizational changes (p. 7). Do not equate deleting a classification with automatically dismissing its incumbent; the position can be reclassified into an allowed title if the work justifies it (instruction 4, p. 8).</aside>
+
+## What problem should Pat solve first? {.activity-slide data-background-color="#176b87"}
+
+::: {.activity-prompt}
+What is your first move as Pat, and why?
+:::
+
+<aside class="notes">Discussion prompt based on case pp. 3–8. Facilitation plan is in the separate instructor guide.</aside>
+
+## What Urbanopolis HR actually does
+
+::: {.columns}
+::: {.column width="50%"}
+- **Employment**: recruitment, selection, test administration, reception
+- **Occupational Health Clinic**: physicals for Police and Fire recruits, workers' comp, ADA accommodation
+- **Administrative Finance**: HRIS on a mainframe, records and the file room, Benefits, Job Training
+:::
+::: {.column width="50%"}
+- **Employee Relations**: Classification, Labor Relations (three unions), Compensation
+- **Workforce Development**: federal grants, the metro "one-stop shop"
+- **Human Rights / EEO**: the annual Affirmative Action report
+- A **secretarial pool** and two executive secretaries
+:::
+:::
+
+<aside class="notes">Source: full case p. 23 org chart, with unit functions from the division references in pp. 10–18. Titles and units only; no individual employee information is shown or discussed. Purpose: give the next slide real functions to prioritize among. Students imagining a generic HR office will not guess that this department runs a clinic that serves Fire recruits or administers federal workforce grants, and those facts change which cuts are possible: grant-funded and fee-supported work may sit outside the general-fund cut, and the clinic has customers in two other departments. The handout gives headcounts by unit.</aside>
+
+## What must the city still be able to do?
+
+::: {.big-question}
+What work must HR still perform while the department gets smaller?
+:::
+
+::: {.fragment}
+Even with fewer staff, the city must still:
+
+- Fill critical vacancies
+- Pay employees and administer benefits accurately
+- Manage labor relations and the reduction in force
+- Review job classifications and departmental reorganizations
+- Maintain personnel records and legal compliance
+- Train or reassign employees as responsibilities change
+:::
+
+::: {.merit-line .fragment}
+**Which two capabilities would you protect first?** What evidence would justify those priorities?
+:::
+
+<aside class="notes">
+Purpose: Scaffold the discussion for students who do not yet know the range of public-sector HR functions. The goal is prioritization under constraint, not recall of HR terminology.
+
+1. Before advancing the slide, give students 45–60 seconds to name work that HR probably performs. If they stall, ask: What would stop working across the city if HR disappeared tomorrow? Record several answers without evaluating them.
+2. Advance once to reveal the six examples. Briefly connect each item to the case:
+   - Critical vacancies: Council directed HR to conduct a nationwide search for the Risk Manager.
+   - Pay and benefits: errors affect the workforce and can create large financial problems.
+   - Labor relations and the RIF: union negotiations are approaching, and HR must write the citywide RIF policy.
+   - Classification and reorganization: every department must restructure, and HR reviews the proposed classifications and organization changes.
+   - Records and compliance: the city needs reliable information and consistent rules to make defensible personnel decisions.
+   - Training and reassignment: redeployment may preserve services and reduce the number of employees who lose their jobs.
+3. Advance again. Ask pairs or small groups to protect only two capabilities and identify one activity they would reduce, consolidate, delay, or deliver differently. Do not accept "protect everything" without a specific way to meet the budget target.
+4. Require one form of evidence for each choice. Useful categories include workload or backlog, legal deadlines, the number of departments affected, the cost of an error, service consequences, and whether another unit could perform the work.
+
+Likely responses:
+- Protect labor relations/RIF and classification because both are urgent, citywide responsibilities created by the budget process.
+- Protect pay/benefits and records/compliance because mistakes could harm every employee and expose the city to financial or legal risk.
+- Protect classification and targeted recruitment because HR must help all departments reorganize while completing the Council-mandated Risk Manager search.
+- Preserve a small amount of training and reassignment capacity because a successful reorganization depends on employees taking on different work.
+
+Debrief: Distinguish a capability from a particular position or organizational unit. Several combinations can be defensible. Strong answers connect the choice to a case fact, explain the consequence of weakening the capability, and acknowledge what the department would do less of.
+
+Source context: case pp. 6–8. The excerpt does not provide a full inventory of departmental services or workloads.
+</aside>
+
+## Fewer layers of supervision
+
+Budget's premise: the average department has **four layers of management** between first-line workers and the department head, and that is redundant.
+
+::: {.big-question}
+When would removing a supervisory layer improve service? When could it make service worse?
+:::
+
+What would you need to know before deciding that a layer is redundant?
+
+<aside class="notes">Source: case p. 7 (four layers, redundant management, broaden reporting relationships) and p. 8. Budget's claim is citywide and comes from a title count, not from workload data. Collect answers to "what would you need to know" before advancing: the next slide is the chart they are asking for.</aside>
+
+##  {.chart-slide}
+
+![](images/urbanopolis-org-chart-original.png){.org-chart .org-chart-original}
+
+<aside class="notes">Source: full case p. 23, reproduced as-is (names and titles only; the case's demographic and performance data are on other pages and are not shown). Purpose: let students see the document Pat actually has, and how hard it is to read structure off it, before the redrawn version on the next slide. Ask: what can you tell from this in thirty seconds? Then advance.</aside>
+
+## HR's org chart {.chart-slide}
+
+![](images/urbanopolis-org-chart.svg){.org-chart}
+
+::: {.chart-questions}
+::: {.fragment}
+Count the layers between a Benefits Analyst and the Director.
+:::
+::: {.fragment}
+Which of the six deleted classifications does HR actually hold?
+:::
+::: {.fragment}
+Which supervisors have only one or two people reporting to them?
+:::
+:::
+
+<aside class="notes">Source: full case p. 23, redrawn by title (no names, no demographic or performance data). Boxes: bold border = supervisory, gold = deleted classification, dashed = vacant, grey = overage, dotted = temporary. Same chart is page 3 of the handout. Benefits chain: Director, Assistant Director, Administrative Finance Manager, Benefits Manager, Benefits Supervisor, then the analysts. Four layers between a first-line worker and the department head, exactly Budget's premise. The Compensation chain runs one deeper. Selected classifications on this chart: one Assistant Director, seven Administrative Assistants (three of them supervise a unit: reception and test administration, the file room, the secretarial pool; four are staff support), one Secretary III. None of Administrative Officer, Operations Support Manager, or Planner. So rule 3 is mostly a reclassification exercise into allowed titles such as Administrative Technician (grade 10) or Administrative Specialist (grade 13), not a layoff. Narrow spans, read off the chart: Data Entry Supervisor (one Data Entry Operator), Records Coordinator (one Administrative Assistant), Benefits Manager (one direct report, the Benefits Supervisor), Compensation Manager (one, the HR Supervisor), Classification Manager (one, a vacant Senior HR Specialist), Assistant Workforce Director (one, the overage Consortium Coordinator). Budget's instruction (p. 7) is to increase the number of workers reporting to each supervisor, so these are the layers Budget would point at first. Push back: a one-report supervisor may be doing production work with a lead title, or holding a specialty (records, data entry) the unit above cannot absorb. The chart shows the span, not the work. Roughly twenty to twenty-five positions on the chart sit above someone. Vacancies: Risk Manager, two Senior HR Specialists (both supervisory), one HR Specialist, two Training Specialists, File Clerk, Receptionist.</aside>
+
+## A recommendation for city management {.activity-slide data-background-color="#176b87"}
+
+::: {.activity-prompt}
+In groups of 3–4, develop a provisional approach to the reorganization.
+:::
+
+1. Identify one capability to protect and one change to investigate.
+2. Which budget instruction is hardest for your approach to satisfy? What would you need to know to satisfy it?
+3. Name the most serious service or employee consequence.
+4. Identify the missing evidence that could change your recommendation.
+
+Approaches on the table: remove a layer, consolidate supervision, reclassify into allowed titles, or **make the case to the Assistant City Managers for a softer target** (p. 6). If you negotiate, say what evidence you bring.
+
+::: {.activity-close}
+Eight minutes. Use the handout's chart and pay bands to inform your decisions. 
+:::
+
+<aside class="notes">Instructor-created discussion activity using the assigned excerpt plus the structural handout (chart, unit headcounts, pay bands). No employee roster or balanced line-item budget is required; an approach with a priced example is enough. Negotiating the target is a legitimate option in the case: p. 6 says a persuasive director "might be able to finagle a softer blow," and the teaching note names team-player-versus-fight-for-share as the central tension. Hold groups that choose it to the same standard as the others: what evidence, and what happens to the other departments' cuts if HR is spared.</aside>
+
+## Which recommendation holds up?
+
+::: {.big-question}
+What is the strongest objection to the approach you prefer?
+:::
+
+Which assumption makes the recommendation work, and what happens if it is wrong?
+
+<aside class="notes">Discussion prompt based on the competing demands in case pp. 5–8. Invite another group to respond before the presenting group replies.</aside>
+
+## Rules that apply to HR itself
+
+::: {.big-question}
+What should make a citywide reduction-in-force policy fair and credible?
+:::
+
+How should Pat weigh service needs, performance, and seniority?
+
+Is a reduction in force an occasion for participatory management, or does it require a top-down approach?
+
+<aside class="notes">Source context: case pp. 4 and 6; the participatory-versus-top-down question is the case author's own suggested provocation in the teaching note. Union negotiations are pending (p. 4), so "who has a voice" has a concrete answer in the case. These questions ask students to propose and defend policy principles. The excerpt does not specify a complete RIF policy.</aside>
+
+## The assistant director
+
+The City Manager praises Alexandar Vineta's experience and loyalty.
+
+**Assistant Director** is also one of the classifications the budget instructions eliminate.
+
+::: {.big-question .fragment}
+What should Pat do with these two messages?
+:::
+
+::: {.fragment}
+The City Manager who praised Vineta also approves every reorganization (p. 7). One person sent both messages. The position costs about **$72,000** loaded, roughly a third of the target.
+:::
+
+::: {.merit-line .fragment}
+**New information for Pat:** the Assistant Director is eligible for retirement and serves at the pleasure of the City Manager. Does that change your answer? Should it?
+:::
+
+<aside class="notes">Source: case pp. 3 and 8. Vineta has served as interim director several times. The excerpt gives an endorsement, not independent performance or workload evidence. Let students commit before either fragment. First fragment: p. 7 says HR recommends and the City Manager approves all organizational changes, so Sedgefield signed off on deleting the Assistant Director classification and then wrote the letter praising its incumbent. Pay: grade 24 step K on the pay plan is $67,944, plus $4,500 benefits, about $72,400, or 32% of $229,343. Second fragment is instructor-supplied from Vineta's own entry in the full case (p. 17), not student reading: retirement-eligible, serves at the pleasure of the City Manager, fifteen years' service. This is the case author's designed resolution. Ask whether a retirement solves the problem or only the arithmetic: the work Vineta does (interim director several times, the institutional memory) still has to land somewhere. Ask also how Pat would treat an Administrative Assistant in the same classification bind who has no City Manager letter and no retirement option.</aside>
+
+## After the budget decision
+
+::: {.big-question}
+Six months later, how would you know whether the reorganization worked?
+:::
+
+What would you monitor besides spending, and what finding would make you change course?
+
+<aside class="notes">Instructor-created evaluation prompt applying the case's stated goal of minimizing service reductions, p. 7. The six-month review is a proposed checkpoint, not an event reported in the case.</aside>
+
+## Your recommendation now {.activity-slide data-background-color="#176b87"}
+
+::: {.activity-prompt}
+What should Pat do next?
+:::
+
+State your recommendation and the tradeoff you are willing to accept.
+
+::: {.activity-close}
+What changed in your thinking? What lesson would you carry into another organization?
+:::
+
+<aside class="notes">Closing synthesis using the assigned excerpt, pp. 1–9. Return to the first written recommendation and invite students to explain any revision.</aside>
