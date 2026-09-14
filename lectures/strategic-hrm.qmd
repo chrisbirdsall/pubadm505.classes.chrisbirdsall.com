@@ -1,7 +1,6 @@
 ---
 title: "Strategic Human Resource Management"
 subtitle: "PUBADM 505"
-author: "Chris Birdsall"
 date: "2026-09-14"
 format:
   revealjs:
