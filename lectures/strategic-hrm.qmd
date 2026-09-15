@@ -41,8 +41,6 @@ Think of a government or nonprofit organization you know. What workforce problem
 Five minutes in groups. Put it on the white board.
 :::
 
-<aside class="notes">Write each group's problem on the board under "Tonight's problems" and leave it up. Reuse them on the alignment, gaps-and-surpluses, succession, and measures slides, and in the closing activity. Define a workforce challenge or give an example if the room stalls. Connect to Chapter 1: human capital includes knowledge, skills, abilities, and competencies. About six minutes including the round.</aside>
-
 ## Strategic human resource management
 
 HR decisions connect the organization's people and capabilities to its goals.
@@ -57,8 +55,6 @@ HR decisions connect the organization's people and capabilities to its goals.
 ::: {.takeaway .fragment}
 People are an asset to develop, not a cost to minimize. Strategic HRM moves from managing positions to managing talent.
 :::
-
-<aside class="notes">Source: author slides 5 and 7; instructor manual p. 17. Strategic HRM is an ongoing approach to managing people. Workforce planning is one way to put that approach into practice. Plant the takeaway line now: Urbanopolis after the break is a budget process that treats people as a cost line. Ask students to watch for where Pat can still act as if people are the asset.</aside>
 
 ## HR's role in organizational decisions
 
@@ -82,8 +78,6 @@ Strategic HRM depends on reliable administration and a voice in setting directio
 ::: {.question-bar .fragment}
 Where you work: is HR asked before a commitment is made, or after?
 :::
-
-<aside class="notes">Source: author slide 7 and its notes, instructor manual p. 17 (transactional and transformational components). Take two or three answers to the question on the slide; ask what happened when HR came in after the commitment. Avoid treating transactional work as unimportant.</aside>
 
 ## Alignment across management systems
 
@@ -132,8 +126,6 @@ Where you work: is HR asked before a commitment is made, or after?
 The arrows run both ways. Are any of these systems  missing from where you work?
 :::
 
-<aside class="notes">Sources: author slides 8–9, recreating the alignment SmartArt (organizational goals at the hub; HRM, budgeting, strategic planning, IT around it). The questions are teaching applications. Build the hub one system at a time. Emphasize mutual adjustment: workforce capacity can reshape strategy as well as respond to it. Point at a problem on the board and ask which system created it or could fix it.</aside>
-
 ## A service goal with conflicting incentives
 
 ::: {.scenario}
@@ -147,8 +139,6 @@ Managers reward staff for closing more cases each day. Training time reduces tha
 ::: {.big-question .fragment}
 What behavior does this system encourage?
 :::
-
-<aside class="notes">Instructor-created hypothetical applying author slide 9. Ask whether speed alone captures the mission. Probe for errors, repeat contacts, appeals, staff learning, and access. Do not supply an answer before students diagnose the mismatch.</aside>
 
 ## Performance and public service values
 
@@ -198,8 +188,6 @@ What behavior does this system encourage?
 Whose experience disappears when we report only an average processing time?
 :::
 
-<aside class="notes">Source: author slide 6, recreating its cycle-matrix SmartArt: four wedges of practice (capacity building, talent development, performance, metrics) cycling around a center, each with the value the author places beside it: organizational justice by capacity building, public service values by talent development, diversity and inclusion by performance, representative bureaucracy by metrics. First reveal: the practice cycle, an evidence-based approach of gathering workforce data and using it to build capacity and develop talent. Second reveal: the values environment; the author's notes ask students to consider how each value shapes the neighboring practice. Connect to Chapter 1's discussion of merit and public service. Take answers to the question on the slide; the choice of a performance measure is itself a judgment about what matters.</aside>
-
 ## What a strategic approach can offer
 
 ::: {.compare .roomy}
@@ -219,11 +207,7 @@ Evidence for resource decisions and a way to assess whether new commitments fit 
 Strategy also means knowing what not to do. Would an attractive new grant make the organization less able to deliver what it already promises?
 :::
 
-<aside class="notes">Source: author slide 10 and its notes (Porter on strategy as knowing what not to do). These are potential benefits, not guaranteed effects. Introduce mission creep as taking on work that diverts capacity from core purposes; the takeaway question is the manual's grant example.</aside>
-
 ## Workforce planning {.section-slide data-background-color="#102a43"}
-
-<aside class="notes">Source: author slide 11. Transition from the strategic approach to a concrete planning process.</aside>
 
 ## The workforce planning process
 
@@ -247,8 +231,6 @@ Five steps, cyclical
 Discovering a workforce constraint may send you back to the goal, the budget, or the timeline.
 :::
 
-<aside class="notes">Source: author slide 12. Present this as an iterative process. The strip at the top of the next slides shows where we are in it.</aside>
-
 ## Strategic direction and the HR audit
 
 ::: {.wp-track}
@@ -263,8 +245,6 @@ Discovering a workforce constraint may send you back to the goal, the budget, or
 - Review roles, staffing, compensation, and performance processes.
 - Identify what works and where capacity or information is missing.
 :::
-
-<aside class="notes">Source: author slide 13 and instructor manual p. 18. Explain that an HR audit is a structured assessment, not simply an employee count. It can expose outdated job descriptions, inconsistent practices, or missing information. No legal compliance determination is being made here.</aside>
 
 ## Activity: the staffing implications of a goal {.activity-slide data-background-color="#176b87"}
 
@@ -281,8 +261,6 @@ Hypothetical: a city will open its permit counter two evenings each week using i
 ::: {.activity-close}
 Five minutes in groups.
 :::
-
-<aside class="notes">Instructor-created hypothetical adapting author slide 14's strategic-goal exercise. Assign one role per group (four groups of three). Allow about eight minutes including reports. The roles should produce disagreement: HR sees training and supervision; Budget sees the flat budget; the supervisor sees daytime coverage and burnout; the resident sees access. Listen for scheduling, supervision, IT support, training, workload, and effects on daytime service. Keep the focus on translating a goal into workforce requirements.</aside>
 
 ## The workforce we have and the workforce we need
 
@@ -301,8 +279,6 @@ Five minutes in groups.
 | Rules, contracts, and required staffing levels | Constraints any plan must respect |
 
 :::
-
-<aside class="notes">Source: author slide 15, including its line on external constraints or rules (accreditation, safety staffing). The constraints row sets up Urbanopolis: budget instructions that allow only supervisory cuts, deleted classifications, and pending union negotiations. Distinguish headcount, funded positions, and full-time equivalents. Two half-time employees can equal one FTE. Avoid treating demographic categories as proxies for an individual's abilities or retirement plans. Gather evidence about actual skills and likely departures.</aside>
 
 ## Responses to gaps and surpluses
 
@@ -327,8 +303,6 @@ Consider redeployment, retraining, attrition, or position reductions in light of
 An organization can have a surplus in one role/position and a shortage in another.
 :::
 
-<aside class="notes">Sources: author slide 16, instructor manual p. 20 workforce-planning definition and discussion of gaps and surpluses. Options here are illustrative and depend on authority, rules, costs, and timing. Ask students to return to the permit-counter example, or a problem on the board: what could they do immediately, and what would require time or approval?</aside>
-
 ## Succession planning
 
 ::: {.wp-track}
@@ -341,8 +315,6 @@ Which departures would put essential work at risk?
 - Identify the competencies future employees will need.
 - Develop internal capability and consider external recruitment.
 - Prepare for an unexpected vacancy as well as a planned transition.
-
-<aside class="notes">Sources: author slides 17–19 and instructor manual p. 20. A critical position can be a specialist or frontline role. Succession planning includes knowledge transfer and development. It should not imply a guaranteed promotion for a chosen successor. Ask whether any problem on the board is really a succession problem.</aside>
 
 ## A vacancy beyond the leadership team
 
@@ -359,8 +331,6 @@ Show of hands: are you the only person at work who knows how to do something?
 ::: {.big-question .fragment}
 What should the manager do before that person leaves?
 :::
-
-<aside class="notes">Instructor-created hypothetical applying author slides 18–19. Take the show of hands first; ask one or two people what the thing is and what happens when they take a week off. Then the question. Listen for documentation, cross-training, protected learning time, and backup responsibility. Probe: who has time to learn? How would you know the backup can actually complete the work? Keep to roughly three minutes.</aside>
 
 ## Implementation and evidence
 
@@ -395,8 +365,6 @@ A plan needs an owner, resources, and a timeline.
 Pick one problem from the board(s). What measure would provide evidence about whether it's improving?
 :::
 
-<aside class="notes">Sources: author slide 20, including the implementation SmartArt, and instructor-created measures applying author slides 6, 9, and 20. Emphasize feasibility: a training plan without time for employees to attend is incomplete. Measures describe possible evidence, not established causal relationships. Two minutes on the closing question: take one measure per group, and ask what comparison or baseline would be needed. If errors rise, consider changes in case complexity or systems alongside workforce explanations.</aside>
-
 ## What would you tell your manager? {.activity-slide data-background-color="#176b87"}
 
 ::: {.activity-prompt}
@@ -406,8 +374,6 @@ Return to the workforce problem your group put on the board.
 - What organizational goal is at stake?
 - What evidence would you gather first?
 - What HR decision might that evidence change?
-
-<aside class="notes">Sources: author slides 21–22 and instructor manual pp. 20–21. Leave roughly four minutes. Ask for one changed answer from the opening discussion. Reinforce the link between the mission, workforce capabilities, and evidence.</aside>
 
 ## Two mindsets for strategic HRM
 
@@ -428,11 +394,7 @@ Cut, consolidate, and reduce in force. The reality for many public and nonprofit
 Tonight's case is strategic HRM under austerity. What can Pat Alvarez do?
 :::
 
-<aside class="notes">Source: instructor manual p. 21, which recommends Urbanopolis because SHRM is usually taught "with a growth mindset" while most organizations face fiscal austerity. Say the line, then break. Pat has to cut 8.5% from a budget that is 97% people, write the citywide RIF rules, and fill a Council-priority vacancy at the same time.</aside>
-
 ## Urbanopolis after the break {.section-slide data-background-color="#102a43"}
-
-<aside class="notes">Transition to the separate Urbanopolis deck. Students read the case excerpt, pages 1–9. Source: Brett S. Sharp, Budget Reorganization in the Urbanopolis Human Resources Department (Electronic Hallway, 2008). Instructor manual p. 21 recommends the case to consider strategic HRM under fiscal constraint.</aside>
 
 ## Next class
 
@@ -442,4 +404,3 @@ Guy & Sowa, Chapters 3–4
 
 **Case:** Corvallis Crisis Line, the first student-led case presentation
 
-<aside class="notes">Source: PUBADM 505 Fall 2026 schedule, Week 5, and the case sign-up sheet (student slots begin Week 5). Tonight's discussion is the model for the presenting group. Use at the end of the evening if desired.</aside>
