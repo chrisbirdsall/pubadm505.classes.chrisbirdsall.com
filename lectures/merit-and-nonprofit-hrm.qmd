@@ -1,0 +1,393 @@
+---
+title: "Merit Systems and Nonprofit HRM"
+subtitle: "PUBADM 505"
+date: "2026-09-21"
+format:
+  revealjs:
+    theme: [default, pubadm505.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    width: 1600
+    height: 900
+    margin: 0.04
+    footer: "PUBADM 505 · Personnel Management"
+    embed-resources: true
+---
+
+## Outline {.title-slide data-background-color="#102a43"}
+
+::: {.hero-statement}
+- Merit systems in government
+- Merit principles and prohibited personnel practices
+- HRM in nonprofit organizations
+- Case study: Corvallis Crisis Line (after the break)
+:::
+
+## Merit Systems in Government {.section-slide data-background-color="#102a43"}
+
+## Hurricane Dorian, 2019
+
+:::: {.columns .dorian}
+::: {.column width="60%"}
+![](images/trump-dorian-altered-map-2019.jpg){.dorian-photo fig-alt="President Trump in the Oval Office holding a NOAA forecast map of Hurricane Dorian, with the cone of uncertainty extended into Alabama in black marker."}
+
+[White House video, September 4, 2019 (public domain)]{.photo-credit}
+:::
+::: {.column width="40%"}
+- Sept. 1: the President says Alabama will likely be hit "(much) harder than anticipated"
+- About 20 minutes later, the NWS office in Birmingham posts that Alabama will see no impacts
+- Sept. 4: the forecast map, extended into Alabama with a marker
+- Sept. 6: NOAA issues an unsigned statement saying Birmingham "spoke in absolute terms"
+:::
+::::
+
+::: {.question-bar .fragment}
+10 minutes with your table:
+:::
+
+::: {.incremental}
+- Who should the Birmingham forecasters answer to: the President, NOAA leadership, the public, or the science?
+- Was NOAA's statement appropriate political responsiveness, or political interference? Where is the line?
+- If you were one of the forecasters, what would you do next, and what protections would you need to do it?
+:::
+
+## Politics and Government Employment
+
+::: {.compare .roomy}
+<div class="compare-side"><span class="card-heading">Political responsiveness</span>
+
+Elected leaders set direction. Career staff carry out the policies voters chose, even ones they disagree with.
+
+</div>
+<div class="compare-side"><span class="card-heading">Neutral competence</span>
+
+Hiring and firing turn on qualifications and performance, so staff can tell leaders what they do not want to hear.
+
+</div>
+:::
+
+::: {.takeaway .fragment}
+The question is how much political responsiveness is appropriate, and who decides where to draw the line.
+:::
+
+## A Brief History of the Civil Service
+
+::: {.timeline}
+<div class="tl-step fragment"><span class="tl-year">1829–1881</span><span class="card-heading">Spoils</span><p>Jobs reward party loyalty; each election turns over offices</p></div>
+<div class="tl-step fragment"><span class="tl-year">1881</span><span class="card-heading">A policy window</span><p>President Garfield is shot by a disappointed office-seeker</p></div>
+<div class="tl-step fragment accent-step"><span class="tl-year">1883</span><span class="card-heading">Pendleton Act</span><p>Open competitive exams; no firing for refusing political contributions. Covers ~10% of jobs at first</p></div>
+<div class="tl-step fragment"><span class="tl-year">1912 · 1939</span><span class="card-heading">Extending it</span><p>Lloyd–La Follette lets employees petition Congress. The Hatch Act limits partisan activity. Social Security amendments require merit systems in grant-funded state programs</p></div>
+<div class="tl-step fragment"><span class="tl-year">1978</span><span class="card-heading">Civil Service Reform Act</span><p>OPM, MSPB, FLRA, and the Senior Executive Service</p></div>
+:::
+
+::: {.takeaway .fragment}
+Having employees is not the same as having a capable government.
+:::
+
+## The Civil Service Reform Act of 1978
+
+::: {.compare .roomy}
+<div class="compare-side"><span class="card-heading">The problem by the 1970s</span>
+
+Employees were hard to evaluate and harder to remove. "Turkey farms" held people no one could fire. One commission hired, set rules, *and* judged appeals.
+
+</div>
+<div class="compare-side accent"><span class="card-heading">The CSRA's answer</span>
+
+Split the jobs up. **OPM** runs personnel policy. **MSPB** hears appeals. **FLRA** oversees labor relations. Add performance management and a mobile Senior Executive Service.
+
+</div>
+:::
+
+::: {.question-bar .fragment}
+How can a system protect employees from political firing without also protecting poor performers? 
+:::
+
+## Merit Principles and Prohibited Personnel Practices
+
+::: {.compare .roomy}
+<div class="compare-side"><span class="card-heading">9 merit system principles</span>
+
+Goals for how the federal workforce should be managed (5 U.S.C. § 2301).
+
+</div>
+<div class="compare-side accent"><span class="card-heading">14 prohibited personnel practices</span>
+
+Actions that are against the law (5 U.S.C. § 2302). A manager can be disciplined for them, and employees harmed by one can seek corrective action.
+
+</div>
+:::
+
+## The Nine Merit System Principles
+
+```{=html}
+<div class="mp-grid">
+<div class="mp"><span class="mp-label">1 · Recruitment, selection, and advancement</span><p>Recruit from all segments of society; select and advance on ability, knowledge, and skills after fair and open competition</p></div>
+<div class="mp"><span class="mp-label">2 · Equity</span><p>Fair and equitable treatment regardless of political affiliation, race, sex, religion, age, disability, or marital status</p></div>
+<div class="mp"><span class="mp-label">3 · Compensation</span><p>Equal pay for work of equal value; incentives and recognition for excellent performance</p></div>
+<div class="mp"><span class="mp-label">4 · Conduct</span><p>High standards of integrity, conduct, and concern for the public interest</p></div>
+<div class="mp"><span class="mp-label">5 · Utilization</span><p>Use the workforce efficiently and effectively</p></div>
+<div class="mp"><span class="mp-label">6 · Retention</span><p>Retain employees based on performance; correct poor performance, and separate those who cannot or will not improve</p></div>
+<div class="mp"><span class="mp-label">7 · Training and development</span><p>Provide training where it improves individual and organizational performance</p></div>
+<div class="mp"><span class="mp-label">8 · Partisan neutrality</span><p>Protect employees from favoritism, arbitrary action, and political coercion</p></div>
+<div class="mp"><span class="mp-label">9 · Public interest</span><p>Protect employees who report lawbreaking, mismanagement, waste, abuse of authority, or dangers to public health and safety</p></div>
+</div>
+```
+
+## The Merit in Merit Principles
+
+- The goal is an ethical, competent, and effective workforce with high integrity that serves the public interest
+- Written for the federal civil service, but good principles for all public service employment
+  - State and local governments
+  - Nonprofit organizations
+- The principles line up with the NASPAA competencies for public service (Guy & Sowa, Table 3.3)
+
+
+## Prohibited Personnel Practices
+
+- Enumerated by the Civil Service Reform Act of 1978
+- Hold both supervisors and employees accountable
+- Connect how people are treated to how the organization performs:
+
+::: {.pathway .ppp-path}
+<div class="pathway-step fragment"><span class="card-heading">Inputs</span><p>The people in the organization</p></div>
+<div class="pathway-arrow fragment">→</div>
+<div class="pathway-step fragment"><span class="card-heading">Process</span><p>How people are trained, developed, promoted, and rewarded</p></div>
+<div class="pathway-arrow fragment">→</div>
+<div class="pathway-step fragment"><span class="card-heading">Outputs</span><p>The quantity and quality of services delivered</p></div>
+<div class="pathway-arrow fragment">→</div>
+<div class="pathway-step fragment"><span class="card-heading">Outcomes</span><p>Results achieved for the mission</p></div>
+:::
+
+## The 14 Prohibited Personnel Practices
+
+::: {.ppp-list}
+1. Discriminate for or against an employee or applicant
+2. Consider recommendations not based on personal knowledge or records
+3. Coerce political activity, or retaliate for refusing it
+4. Deceive or obstruct anyone's right to compete for a job
+5. Influence anyone to withdraw from competition
+6. Grant a preference not authorized by law
+7. Hire, promote, or advocate for a relative (nepotism)
+8. Retaliate against whistleblowers
+9. Retaliate for filing an appeal, complaint, or grievance, cooperating with an Inspector General, or refusing to break the law
+10. Discriminate based on conduct that does not affect job performance
+11. Violate veterans' preference requirements
+12. Violate any law, rule, or regulation implementing the merit principles
+13. Enforce a nondisclosure agreement that lacks the required whistleblower-protection language
+14. Access an employee's or applicant's medical records as part of any of the above
+:::
+
+::: {.lead-in}
+The book lists 13. The 14th was added in 2017.
+:::
+
+## Activity: Allowed or Prohibited? {.activity-slide data-background-color="#176b87"}
+
+```{=html}
+<div class="poll-grid">
+<div class="poll-item"><p>1. A division chief recommends her nephew for an opening in her own division.</p><span class="poll-answer fragment">Prohibited: nepotism</span></div>
+<div class="poll-item"><p>2. A supervisor asks staff to help on a candidate's campaign. People who say no get the weekend shifts.</p><span class="poll-answer fragment">Prohibited: coerced political activity</span></div>
+<div class="poll-item"><p>3. A hiring panel adds points to a veteran's score.</p><span class="poll-answer fragment">Allowed, in fact required for eligible veterans. Violating veterans' preference is the prohibited practice.</span></div>
+<div class="poll-item"><p>4. A manager tells a strong outside applicant not to bother, because the job is "already spoken for."</p><span class="poll-answer fragment">Prohibited: obstructing or discouraging competition</span></div>
+</div>
+```
+
+
+## Due Process: *Cleveland Board of Education v. Loudermill*
+
+::: {.scenario}
+<span class="card-heading">The case (1985)</span>
+
+A school security guard is fired for failing to disclose a past felony conviction on his application. He gets no chance to respond before he is fired.
+:::
+
+::: {.takeaway .fragment}
+The Supreme Court held that a civil servant removable only for cause has a property interest in the job. Before firing: notice, an explanation of the evidence, and a chance to respond.
+:::
+
+::: {.question-bar .fragment}
+Does the public benefit from this protection, or only the employee?
+:::
+
+## Removing Civil Service Protections: Schedule F
+
+:::: {.columns .schedf}
+::: {.column width="55%"}
+**What it does**
+
+- Creates a new category for career positions that are "confidential, policy-determining, policy-making, or policy-advocating"
+- Employees are still hired on merit, stay career (not political) appointees, and keep protection from prohibited personnel practices and whistleblower retaliation
+- But they lose the adverse-action procedures and MSPB appeal rights from slide 14. Agencies can remove them with written notice.
+:::
+::: {.column width="45%"}
+**Timeline**
+
+- **Oct. 2020:** created as "Schedule F" (EO 13957)
+- **Jan. 2021:** rescinded (EO 14003)
+- **Jan. 2025:** reinstated as "Schedule Policy/Career" (EO 14171)
+- **Feb. 2026:** OPM final rule
+- **June 2026:** about 8,000 positions moved, 97% at GS-15 or senior level
+- Union lawsuits are pending
+:::
+::::
+
+::: {.source-line}
+Sources: [OPM news release, Feb. 5, 2026](https://www.opm.gov/news/news-releases/opm-finalizes-schedule-policycareer-rule-to-strengthen-accountability/) · [CRS, *Schedule Policy/Career: 2026 Final Rule, Legal Challenges, and Issues for Lawmakers* (LSB11412), Mar. 26, 2026](https://www.congress.gov/crs-product/LSB11412) · [FedSmith, June 3, 2026](https://www.fedsmith.com/2026/06/03/what-the-new-schedule-policy-career-order-means-for-federal-employees/)
+:::
+
+## Schedule F: Arguments For and Against
+
+::: {.compare .roomy}
+<div class="compare-side"><span class="card-heading">For</span>
+
+Policy-influencing career staff should answer to elected leaders. Leaders need to be able to remove staff who resist the agenda voters chose.
+
+</div>
+<div class="compare-side accent"><span class="card-heading">Against</span>
+
+Without appeal rights, the risk Pendleton addressed returns. The staff most likely to be removed are the ones whose job is to tell leaders unwelcome facts.
+
+</div>
+:::
+
+::: {.question-bar .fragment}
+Back to Birmingham: if the forecasters could be removed with written notice, what would they have posted?
+:::
+
+## HRM in Nonprofit Organizations {.section-slide data-background-color="#102a43"}
+
+## Nonprofits in the United States
+
+::: {.stat-row}
+<div class="stat"><span class="stat-number">~12M</span><p>people employed by nonprofits</p></div>
+<div class="stat"><span class="stat-number">1 in 3</span><p>public service employees work in a nonprofit</p></div>
+<div class="stat"><span class="stat-number">~2 in 3</span><p>reporting public charities have revenue under $500,000</p></div>
+:::
+
+::: {.lead-in}
+Guy & Sowa, Chapter 4; counts from the National Center for Charitable Statistics
+:::
+
+::: {.question-bar .fragment}
+Show of hands: who has worked or volunteered in a nonprofit? Anyone contracted with one?
+:::
+
+## Three Failures Theory
+
+::: {.lead-in}
+Weisbrod · Hansmann · Salamon
+:::
+
+::: {.three-words}
+<div class="word-block fragment"><span class="card-heading">Market failure</span><p>No profit in the service, or buyers cannot judge its quality</p></div>
+<div class="word-block fragment"><span class="card-heading">Government failure</span><p>Government serves the median voter, so specialized needs go unmet</p></div>
+<div class="word-block fragment"><span class="card-heading">Voluntary failure</span><p>Nonprofits lack stable money and reach, so they turn to government as a partner</p></div>
+:::
+
+::: {.takeaway .fragment}
+The boundaries between sectors are blurry. Government, nonprofits, and businesses often deliver the same public services.
+:::
+
+## How Are Nonprofits Different?
+
+::: {.four-corners .roomy-corners}
+<div class="corner"><span class="card-heading">Employment at will</span><p>No civil service protections. The employee can be let go for any lawful reason.</p></div>
+<div class="corner"><span class="card-heading">No tax base</span><p>Every hire, raise, and benefit needs a funding source.</p></div>
+<div class="corner"><span class="card-heading">Flexibility</span><p>No central personnel rules, so the nonprofit designs its own practices. The task is getting the level of structure right.</p></div>
+<div class="corner"><span class="card-heading">Specialized missions</span><p>A nonprofit can serve one population. Hiring by protected characteristic is almost never allowed; BFOQs are very narrow and never cover race. Religious organizations may prefer their own members.</p></div>
+:::
+
+## Employment At-Will
+
+::: {.compare .roomy}
+<div class="compare-side"><span class="card-heading">Civil servant</span>
+
+Property interest in the job. Notice, a chance to respond, and an appeal. Merit principles backed by enforceable prohibited practices.
+
+</div>
+<div class="compare-side accent"><span class="card-heading">Nonprofit employee</span>
+
+At will unless there is a contract. The law still bars discrimination and many kinds of retaliation. Everything else is up to the organization.
+
+</div>
+:::
+
+::: {.takeaway .fragment}
+Nonprofits can adopt merit principles on their own, through written policies and an employee handbook.
+:::
+
+## Funding and the Starvation Cycle
+
+```{=html}
+<div class="cycle" role="img" aria-label="The nonprofit starvation cycle: funders expect low overhead, so the nonprofit underinvests in pay, HR, and training; experienced staff and volunteers leave; service quality and capacity fall; funders then ask for even leaner operations, and the cycle repeats.">
+  <div class="cy-box">Funders expect low overhead</div>
+  <div class="cy-arrow fragment" data-fragment-index="1">→</div>
+  <div class="cy-box fragment" data-fragment-index="1">Underinvest in pay, HR, and training</div>
+  <div class="cy-arrow cy-up fragment" data-fragment-index="4">↑<span>…and funders ask for even leaner operations</span></div>
+  <div></div>
+  <div class="cy-arrow fragment" data-fragment-index="2">↓</div>
+  <div class="cy-box fragment" data-fragment-index="3">Service quality and capacity fall</div>
+  <div class="cy-arrow fragment" data-fragment-index="3">←</div>
+  <div class="cy-box cy-accent fragment" data-fragment-index="2">Experienced staff and volunteers leave</div>
+</div>
+```
+
+::: {.lead-in}
+Gregory & Howard (2009), "The Nonprofit Starvation Cycle"
+:::
+
+::: {.takeaway .fragment}
+Donative labor: the assumption that employees will accept lower pay because they believe in the mission. Mission attachment is not a substitute for competitive pay.
+:::
+
+## Managing Volunteers
+
+::: {.pathway .vol-path}
+<div class="pathway-step fragment"><span class="card-heading">Recruit</span><p>Who is in charge of volunteers? A written role description and an application</p></div>
+<div class="pathway-arrow fragment">→</div>
+<div class="pathway-step fragment"><span class="card-heading">Screen</span><p>Background checks where clients are vulnerable</p></div>
+<div class="pathway-arrow fragment">→</div>
+<div class="pathway-step fragment"><span class="card-heading">Train</span><p>Orientation, a handbook, and skills for the role</p></div>
+<div class="pathway-arrow fragment">→</div>
+<div class="pathway-step fragment"><span class="card-heading">Support</span><p>Supervision, logged hours, and feedback</p></div>
+<div class="pathway-arrow fragment">→</div>
+<div class="pathway-step fragment"><span class="card-heading">Recognize</span><p>Appreciation keeps volunteers coming back</p></div>
+:::
+
+::: {.takeaway .fragment}
+Volunteers need the same basic HR infrastructure as paid staff.
+:::
+
+## The Board of Directors
+
+::: {.compare .roomy}
+<div class="compare-side"><span class="card-heading">What the board does</span>
+
+Hires, evaluates, and if necessary fires the executive director. Keeps the organization on its charitable purpose. Owes duties of care, loyalty, and obedience.
+
+</div>
+<div class="compare-side accent"><span class="card-heading">What that means for HR</span>
+
+The executive director reports to the board. The board is responsible for evaluating the executive director and making sure HR policies are in place.
+
+</div>
+:::
+
+::: {.question-bar .fragment}
+Where you work or volunteer: who evaluates the person at the top, and how often?
+:::
+
+## Next Week…
+
+**September 28: Job design and job analysis**
+
+Guy & Sowa, Chapter 5
+
+**Case:** Job Evaluation: Some Counselors Are More Equal Than Others (student-led)
+
+## Case Study: Corvallis Crisis Line {.section-slide data-background-color="#102a43"}

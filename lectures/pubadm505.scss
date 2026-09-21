@@ -150,3 +150,66 @@ $backgroundColor: #f7f4ed;
 .reveal .chart-slide .chart-questions > div { flex: 1; border-top: 3px solid var(--gold); padding-top: .35em; }
 .reveal .chart-slide .chart-questions p { margin: 0; color: var(--ink); font-weight: 600; }
 .reveal .chart-slide .org-chart-original { max-height: 700px; }
+
+/* Sept 21 Merit & Nonprofit HRM deck additions (scoped; other decks unaffected) */
+.reveal .plan-path .pathway-step .card-heading { font-size: .95em; }
+.reveal .plan-path .pathway-step p { font-size: .72em; }
+.reveal .pathway-step.accent-step { border-top-color: var(--coral); background: #f8e9e4; }
+.reveal .pathway-step.accent-step .card-heading { color: var(--coral); }
+.reveal .timeline { display: grid; grid-template-columns: repeat(5, 1fr); gap: .4em; }
+.reveal .tl-step { background: #e9eef0; border-top: 7px solid var(--blue); padding: .55em .55em .6em; }
+.reveal .tl-step.accent-step { border-top-color: var(--coral); background: #f8e9e4; }
+.reveal .tl-year { display: block; color: var(--muted); font-weight: 800; font-size: .62em; letter-spacing: .05em; margin-bottom: .2em; }
+.reveal .tl-step .card-heading { display: block; color: var(--blue); font-size: .8em; margin: 0 0 .3em; line-height: 1.1; }
+.reveal .tl-step.accent-step .card-heading { color: var(--coral); }
+.reveal .tl-step p { margin: 0; font-size: .64em; line-height: 1.25; }
+.reveal .poll-grid { display: grid; grid-template-columns: 1fr 1fr; gap: .5em; }
+.reveal .poll-item { background: rgba(255,255,255,.1); border-left: 6px solid #f5d68b; padding: .5em .65em; }
+.reveal .poll-item p { margin: 0 0 .35em; font-size: .76em; font-weight: 600; }
+.reveal .poll-answer { display: block; color: #f5d68b; font-size: .7em; font-weight: 800; }
+.reveal .stat-row { display: flex; gap: .6em; margin-bottom: .6em; }
+.reveal .stat { flex: 1; border-top: 8px solid var(--blue); background: #e9eef0; padding: .5em .6em .6em; }
+.reveal .stat:nth-child(2) { border-top-color: var(--coral); background: #f8e9e4; }
+.reveal .stat-number { display: block; font-size: 2.1em; font-weight: 800; letter-spacing: -.04em; color: var(--ink); line-height: 1; }
+.reveal .stat p { margin: .3em 0 0; font-size: .78em; }
+.reveal .four-corners.roomy-corners .corner { padding: .65em .7em; }
+.reveal .four-corners.roomy-corners .corner .card-heading { font-size: .9em; }
+.reveal .four-corners.roomy-corners .corner p { font-size: .76em; }
+.reveal .three-words .word-block p { font-size: .8em; }
+.reveal .vol-path .pathway-step .card-heading { font-size: .85em; }
+.reveal .vol-path .pathway-step p { font-size: .72em; }
+.reveal .lens-list { display: flex; flex-direction: column; gap: .5em; }
+.reveal .lens { display: flex; align-items: center; gap: .7em; background: #e9eef0; border-left: 8px solid var(--blue); padding: .5em .8em; }
+.reveal .lens p { margin: 0; font-size: .82em; font-weight: 600; }
+.reveal .lens-num { flex: none; display: inline-flex; align-items: center; justify-content: center; width: 1.6em; height: 1.6em; border-radius: 50%; background: var(--ink); color: white; font-weight: 800; font-size: .8em; }
+.reveal .cycle { display: grid; grid-template-columns: 1fr 5em 1fr; grid-template-rows: auto 3.2em auto; gap: .2em; width: 1150px; margin: 0 auto; align-items: center; }
+.reveal .cy-box { background: #e9eef0; border: 3px solid var(--blue); color: var(--blue); font-weight: 700; font-size: .9em; text-align: center; padding: .55em .6em; line-height: 1.2; }
+.reveal .cy-box.cy-accent { background: #f8e9e4; border-color: var(--coral); color: var(--coral); }
+.reveal .cy-arrow { color: var(--coral); font-size: 1.5em; font-weight: 800; text-align: center; line-height: 1; }
+.reveal .cy-arrow.cy-up { display: flex; align-items: center; justify-content: center; gap: .3em; }
+.reveal .cy-arrow.cy-up span { color: var(--muted); font-size: .38em; font-style: italic; font-weight: 500; text-align: left; }
+.reveal .cy-box { align-self: stretch; display: flex; align-items: center; justify-content: center; min-height: 2.6em; }
+.reveal .cycle + .lead-in { margin-top: .7em; }
+.reveal .dorian .dorian-photo { width: 100%; margin: 0; border: 1px solid #d5dcda; }
+.reveal .dorian p { margin: 0; }
+.reveal .dorian .photo-credit { display: block; font-size: .5em; color: var(--muted); margin-top: .2em; }
+.reveal .dorian .column li { font-size: .8em; padding: .15em 0; }
+/* Sept 21 additions: merit principles grid and PPP list */
+.reveal .mp-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: .4em; }
+.reveal .mp { background: #e9eef0; border-top: 5px solid var(--blue); padding: .55em .6em .6em; }
+.reveal .mp:nth-child(3n+2) { border-top-color: var(--gold); background: #fffaf0; }
+.reveal .mp:nth-child(3n) { border-top-color: var(--coral); background: #fff7f4; }
+.reveal .mp-label { display: block; color: var(--ink); font-weight: 800; font-size: .72em; margin-bottom: .2em; }
+.reveal .mp p { margin: 0; font-size: .68em; line-height: 1.25; }
+.reveal .ppp-list ol { columns: 2; column-gap: 1.4em; margin: 0; padding-left: 1.4em; }
+.reveal .ppp-list li { font-size: .78em; padding: .16em 0; break-inside: avoid; }
+.reveal .ppp-list li::marker { color: var(--coral); font-weight: 800; }
+.reveal .ppp-path .pathway-step .card-heading { font-size: .9em; }
+.reveal .ppp-path .pathway-step p { font-size: .7em; }
+.reveal .ppp-path { margin-top: .5em; }
+.reveal .schedf .column > p strong { color: var(--blue); }
+.reveal .schedf .column > p { font-size: .8em; margin: 0 0 .25em; }
+.reveal .schedf .column li { font-size: .68em; padding: .1em 0; }
+.reveal .source-line { margin-top: .8em; padding-top: .35em; border-top: 1px solid #d5dcda; font-size: .5em; color: var(--muted); line-height: 1.35; }
+.reveal .source-line p { margin: 0; }
+.reveal .source-line a { color: var(--blue); }
