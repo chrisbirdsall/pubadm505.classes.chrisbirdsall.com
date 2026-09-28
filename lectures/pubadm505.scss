@@ -213,3 +213,112 @@ $backgroundColor: #f7f4ed;
 .reveal .source-line { margin-top: .8em; padding-top: .35em; border-top: 1px solid #d5dcda; font-size: .5em; color: var(--muted); line-height: 1.35; }
 .reveal .source-line p { margin: 0; }
 .reveal .source-line a { color: var(--blue); }
+
+/* Sept 28 Job Design deck additions (scoped; other decks unaffected) */
+.reveal .compare.jd.jd-911 .compare-side li { font-size: .82em; padding: .12em 0; }
+.reveal .jd-911 .soc-code { display: block; font-size: .8em; color: var(--muted); font-weight: 700; letter-spacing: .03em; margin-bottom: .2em; }
+.reveal .jd-note { margin-top: .6em; font-size: .64em; color: var(--muted); }
+.reveal .jd-note p { margin: 0; }
+.reveal .compare.jd-two .compare-side p { font-size: .8em; }
+/* KSAs bundle into a competency */
+.reveal .ksa { display: grid; grid-template-columns: 1.15fr auto 1fr; gap: .6em; align-items: stretch; }
+.reveal .ksa-arrow { align-self: center; }
+.reveal .ksa-stack { display: flex; flex-direction: column; gap: .3em; }
+.reveal .ksa-item { background: #e9eef0; border-left: 7px solid var(--blue); padding: .35em .6em; }
+.reveal .ksa-item p { margin: 0; font-size: .8em; }
+.reveal .ksa-item strong { color: var(--blue); }
+.reveal .ksa-arrow { color: var(--coral); font-size: 1.8em; font-weight: 800; }
+.reveal .ksa-comp { background: #f8e9e4; border-top: 8px solid var(--coral); padding: .6em .7em; }
+.reveal .ksa-comp .card-heading { display: block; color: var(--coral); font-size: 1.05em; margin: 0 0 .3em; }
+.reveal .ksa-comp p { margin: 0 0 .3em; font-size: .8em; }
+.reveal .ksa-comp ul { margin: 0; padding-left: 1.1em; }
+.reveal .ksa-comp li { font-size: .8em; padding: .05em 0; }
+/* Career ladder */
+.reveal .ladder { display: flex; align-items: flex-end; gap: .35em; height: 8.4em; margin-top: .4em; }
+.reveal .rung { box-sizing: border-box; flex: 1; background: #e9eef0; border-top: 7px solid var(--blue); padding: .45em .55em; }
+.reveal .rung .card-heading { display: block; color: var(--blue); font-size: .95em; margin: 0 0 .15em; }
+.reveal .rung p { margin: 0; font-size: .74em; }
+.reveal .rung.r1 { height: 52%; } .reveal .rung.r2 { height: 68%; } .reveal .rung.r3 { height: 84%; }
+.reveal .rung.r4 { height: 100%; border-top-color: var(--coral); background: #f8e9e4; }
+.reveal .rung.r4 .card-heading { color: var(--coral); }
+/* Two-column lists on light cards */
+.reveal .compare.jd.jd-cols .compare-side li { font-size: .84em; padding: .08em 0; }
+/* Job analysis hub */
+.reveal .ja-hub { display: grid; grid-template-columns: 1fr auto 2.3fr; gap: .6em; align-items: center; }
+.reveal .ja-core { background: var(--ink); color: #f7f4ed; padding: .9em .8em; text-align: center; font-weight: 800; font-size: 1.05em; align-self: stretch; display: flex; align-items: center; justify-content: center; }
+.reveal .ja-arrow { color: var(--coral); font-size: 1.8em; font-weight: 800; }
+.reveal .ja-uses { display: grid; grid-template-columns: repeat(2, 1fr); gap: .35em; }
+.reveal .ja-use { background: #e9eef0; border-top: 6px solid var(--blue); padding: .4em .6em; }
+.reveal .ja-use .card-heading { display: block; color: var(--blue); font-size: .92em; margin: 0; font-weight: 700; }
+.reveal .ja-use p { margin: .1em 0 0; font-size: .68em; color: var(--muted); font-weight: 500; }
+.reveal .ja-use.tonight { border-top-color: var(--coral); background: #f8e9e4; }
+.reveal .ja-use.tonight .card-heading { color: var(--coral); }
+/* Roomier three-column card grid */
+.reveal .system-grid.roomy-grid { gap: .45em; }
+.reveal .system-grid.roomy-grid .system-item { padding: .55em .65em; }
+.reveal .system-grid.roomy-grid .system-item .card-heading { font-size: .95em; }
+.reveal .system-grid.roomy-grid .system-item p { font-size: .76em; }
+.reveal .jd-lead { font-size: .82em; margin: 0 0 .6em; }
+.reveal .jd-lead p { margin: 0; }
+/* Activity question list */
+.reveal .activity-slide .jd-questions ol { font-size: .8em; width: 92%; margin: 0 0 0 1.4em; }
+.reveal .activity-slide .jd-questions li { padding: .12em 0; }
+.reveal .activity-slide .jd-questions li::marker { color: #f5d68b; font-weight: 800; }
+/* Job taxonomy */
+.reveal .tax { display: flex; flex-direction: column; gap: .3em; }
+.reveal .tax-row, .reveal .tax-head { display: grid; grid-template-columns: 330px 1fr 1fr; gap: 18px; align-items: center; }
+.reveal .tax-row { background: #e9eef0; border-left: 8px solid var(--blue); padding: .4em .7em; }
+.reveal .tax-row.t4 { border-left-color: var(--coral); background: #f8e9e4; }
+.reveal .tax-row .card-heading { color: var(--blue); font-size: .88em; }
+.reveal .tax-row.t2 .card-heading { padding-left: 1em; } .reveal .tax-row.t3 .card-heading { padding-left: 2em; }
+.reveal .tax-row.t4 .card-heading { padding-left: 3em; color: var(--coral); }
+.reveal .tax-row p { margin: 0; font-size: .72em; }
+.reveal .tax-row .tax-eg { font-weight: 700; color: var(--ink); }
+.reveal .tax-head { padding: 0 21px 0 29px; font-size: .6em; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: .2em; }
+/* GS figure */
+.reveal .gs-fig { display: grid; grid-template-columns: 1.7fr 1fr; gap: .9em; align-items: center; }
+.reveal .gs-fig img { width: 100%; margin: 0; }
+.reveal .gs-fig p { margin: 0; }
+.reveal .gs-side .gs-fact { border-top: 3px solid var(--gold); padding: .35em 0 .5em; font-size: .8em; }
+.reveal .gs-side .gs-fact strong { color: var(--blue); }
+/* FES factors */
+.reveal .fes-grid .mp { padding: .45em .6em .5em; }
+.reveal .fes-grid .mp-label { font-size: .74em; }
+.reveal .fes-grid .mp p { font-size: .66em; }
+.reveal .pts-strip { display: flex; gap: .25em; margin-top: .55em; }
+.reveal .pts { flex: 1; text-align: center; background: white; border: 1px solid #d5dcda; padding: .25em .2em; }
+.reveal .pts strong { display: block; color: var(--ink); font-size: .72em; }
+.reveal .pts span { display: block; color: var(--muted); font-size: .66em; font-weight: 700; }
+.reveal .pts-label { font-size: .64em; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin-top: .5em; }
+.reveal .pts-label p { margin: 0; }
+/* Emotional labor */
+.reveal .el-chips { display: flex; flex-wrap: wrap; gap: .35em; margin-top: .7em; }
+.reveal .el-chip { background: #fffdfa; border: 1px solid #d5dcda; border-left: 6px solid var(--gold); padding: .3em .6em; font-size: .76em; font-weight: 700; }
+.reveal .definition-copy .el-cite { display: block; margin-top: .6em; font-size: .8em; color: var(--muted); }
+.reveal .el-def .definition-word { font-size: 2.1em; line-height: .95; letter-spacing: -.05em; }
+/* Sept 28 audit fixes: card headings at least as large as body text, bold; coral heading on the accent side */
+.reveal .compare.jd .compare-side p:has(> .card-heading) { font-size: 1em; margin-bottom: .25em; }
+.reveal .compare.jd .compare-side .card-heading { font-weight: 700; }
+.reveal .compare.jd .compare-side.accent .card-heading { color: var(--coral); }
+.reveal .system-grid.roomy-grid .system-item .card-heading, .reveal .rung .card-heading, .reveal .ksa-comp .card-heading, .reveal .tax-row .card-heading { font-weight: 700; }
+.reveal .fes-grid .mp { border-top-color: var(--blue) !important; background: #e9eef0 !important; }
+.reveal .jd-lead, .reveal .system-grid.roomy-grid .system-item p, .reveal .fes-grid .mp p, .reveal .rung p, .reveal .jd-note { text-wrap: pretty; }
+.reveal .el-def-text { font-size: 1.15em; font-weight: 750; letter-spacing: -.03em; line-height: 1.15; color: var(--ink); }
+.reveal .el-def-text p { margin: 0; }
+.reveal .el-cite-line { margin-top: .4em; font-size: .72em; color: var(--muted); }
+.reveal .el-cite-line p { margin: 0; }
+/* Sept 28 restore-to-source pass: list leads, quote cards, 21st Century Jobs columns */
+.reveal .jd-lead ul { margin: 0; padding-left: 1.1em; }
+.reveal .jd-lead li { font-size: .95em; padding: .05em 0; }
+.reveal .compare.jd.jd-quote .compare-side p { font-size: .76em; }
+.reveal .compare.jd.jd-quote .compare-side p:has(> .card-heading) { font-size: .9em; }
+.reveal .three-words.jd-21c .word-block p:has(> .card-heading) { font-size: 1em; margin: 0 0 .3em; }
+.reveal .three-words.jd-21c .word-block .card-heading { font-weight: 700; }
+.reveal .three-words.jd-21c .word-block li { font-size: .8em; padding: .08em 0; }
+.reveal .fes-names .mp { padding: .5em .6em; }
+.reveal .fes-names .mp-label { font-size: .74em; margin: 0; }
+.reveal .four-corners.jd-desc .corner p { font-size: .8em; }
+.reveal .jd-911 .compare-side:first-child p:not(:has(> .card-heading)):not(:has(> .soc-code)) { font-size: .74em; }
+.reveal .el-chips + .takeaway { margin-top: .8em; }
+.reveal .timeline.jd-tl .tl-step p { font-size: .7em; }
+.reveal .compare.jd.jd-pn { margin-top: .8em; }
