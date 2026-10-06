@@ -216,14 +216,14 @@ Think about what kind of information you look for in a job ad. Then review some 
 In groups, about ten minutes, then share what you found.
 :::
 
-## Recruitment Videos
+## Recruitment Video: Fort Worth Police Department
 
 ::: {.jd-lead}
-Maryland Department of General Services ([open on YouTube](https://www.youtube.com/watch?v=wdM8AFBfkyE))
+"WE ARE HIRING!!!" – says Fort Worth Police Department (InsideFWPD, [open on YouTube](https://www.youtube.com/watch?v=-Yy4QXJqFmE))
 :::
 
 ```{=html}
-<div class="rs-video"><iframe data-yt="wdM8AFBfkyE" title="Maryland Department of General Services Recruitment Video" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="rs-video"><iframe data-yt="-Yy4QXJqFmE" title="WE ARE HIRING!!! - says Fort Worth Police Department" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 <script>
 // Set the YouTube URL at runtime so embed-resources doesn't inline the page; reveal.js lazy-loads data-src when the slide is shown
 document.querySelectorAll('iframe[data-yt]').forEach(f => f.setAttribute('data-src', 'https://www.youtube-nocookie.com/embed/' + f.dataset.yt + '?rel=0'));
