@@ -1,0 +1,856 @@
+---
+title: "Compensation and Benefits"
+subtitle: "PUBADM 505"
+date: "2026-10-12"
+format:
+  revealjs:
+    theme: [default, pubadm505.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    width: 1600
+    height: 900
+    margin: 0.04
+    footer: "PUBADM 505 · Personnel Management"
+    embed-resources: true
+---
+
+## Outline {.title-slide data-background-color="#102a43"}
+
+::: hero-statement
+- BSU Case Study: HR now reports to the president
+- What are we paying for?
+- Benefits
+- Pay law and pay now
+- After the break: Paying the Tucson Police
+:::
+
+## Boise State: HR Now Reports to the President {.section-slide data-background-color="#102a43"}
+
+## On the Horizon with President Hahn
+
+::: cb-email
+"I am excited to share with you that I am shifting our reporting structure so that **Human Resources now reports directly to my office.** From recruitment and compensation to employee relations and policy development, the work of the HR team is important to every corner of the university. This move aligns our organizational chart with the importance of HR's voice and support as we set institutional goals for the future."
+:::
+
+::: {.question-bar .fragment}
+What changed, and why would a new president do this?
+:::
+
+::: source-line
+President David Hahn, "On the Horizon with President Hahn," email to Boise State faculty and staff, Oct. 6, 2026 (emphasis added).
+:::
+
+## Before: Boise State, September 2026
+
+```{=html}
+<div class="cb-org">
+<div class="cb-org-top">
+<div class="cb-org-side cb-org-left"><div class="cb-org-box">Athletics</div><div class="cb-org-box">Morrison Center</div></div>
+<div class="cb-org-pres"><span class="cb-org-t">President</span><span class="cb-org-n">David Hahn</span></div>
+<div class="cb-org-side cb-org-right"><div class="cb-org-box">General Counsel</div><div class="cb-org-box">Title IX Compliance</div><div class="cb-org-box">President’s Professor</div></div>
+</div>
+<div class="cb-org-divs"><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Academic Affairs</span><span class="cb-org-n">Zeynep Hansen (Interim)</span></div></div><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Finance</span><span class="cb-org-n">Stacy Pearson (Interim)</span></div><ul><li>Budget and Planning</li><li>University Financial Services</li></ul></div><div class="cb-org-div cb-org-ops"><div class="cb-org-head"><span class="cb-org-t">Operations and Enterprise Services</span><span class="cb-org-n">Annie Hightower</span></div><ul><li>Campus Operations</li><li>Chemical and Lab Safety</li><li>Children’s Center</li><li>Enterprise Project Management</li><li class="cb-org-hrunit">Human Resources<span class="cb-hr-go fragment"></span></li><li>Public Safety</li><li>Office of Information Technology</li><li>Next Frontier Program</li><li>Art Collection</li><li>Risk Management</li></ul></div><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Public and External Affairs</span><span class="cb-org-n">Mitch Zak</span></div></div><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Research and Economic Development</span><span class="cb-org-n">Nancy Glenn</span></div></div><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Student Affairs and Enrollment Management</span><span class="cb-org-n">Vacant</span></div></div></div>
+</div>
+```
+
+::: source-line
+Boise State Office of the President, organizational chart dated Sept. 2, 2026 (simplified: division sub-units shown for Finance and Operations only; Foundation omitted).
+:::
+
+## After: HR Reports to the President
+
+```{=html}
+<div class="cb-org cb-org-after">
+<div class="cb-org-top">
+<div class="cb-org-side cb-org-left"><div class="cb-org-box">Athletics</div><div class="cb-org-box">Morrison Center</div><div class="cb-org-box cb-org-hrtop">Human Resources</div></div>
+<div class="cb-org-pres"><span class="cb-org-t">President</span><span class="cb-org-n">David Hahn</span></div>
+<div class="cb-org-side cb-org-right"><div class="cb-org-box">General Counsel</div><div class="cb-org-box">Title IX Compliance</div><div class="cb-org-box">President’s Professor</div></div>
+</div>
+<div class="cb-org-divs"><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Academic Affairs</span><span class="cb-org-n">Zeynep Hansen (Interim)</span></div></div><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Finance</span><span class="cb-org-n">Stacy Pearson (Interim)</span></div><ul><li>Budget and Planning</li><li>University Financial Services</li></ul></div><div class="cb-org-div cb-org-ops"><div class="cb-org-head"><span class="cb-org-t">Operations and Enterprise Services</span><span class="cb-org-n">Annie Hightower</span></div><ul><li>Campus Operations</li><li>Chemical and Lab Safety</li><li>Children’s Center</li><li>Enterprise Project Management</li><li class="cb-org-gone">Human Resources</li><li>Public Safety</li><li>Office of Information Technology</li><li>Next Frontier Program</li><li>Art Collection</li><li>Risk Management</li></ul></div><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Public and External Affairs</span><span class="cb-org-n">Mitch Zak</span></div></div><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Research and Economic Development</span><span class="cb-org-n">Nancy Glenn</span></div></div><div class="cb-org-div"><div class="cb-org-head"><span class="cb-org-t">Student Affairs and Enrollment Management</span><span class="cb-org-n">Vacant</span></div></div></div>
+</div>
+```
+
+
+## Possible Rationales
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[A seat at the table]{.card-heading}
+
+- Week 4: transactional vs. transformational HR
+- Is HR asked before a commitment is made, or after?
+- From the email: "HR's voice and support"
+:::
+
+::: {.compare-side .accent .fragment}
+[Closer to the top]{.card-heading}
+
+- Week 7: presidential control of federal hiring
+- Hiring, pay, and employee relations sit closer to one office
+- What makes this different from the federal case?
+:::
+:::::
+
+::: {.question-bar .fragment}
+When HR reports to the top, what changes for leadership, and what changes for employees?
+:::
+
+## Who Owns Pay?
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[HR asks]{.card-heading}
+
+- Is pay fair across similar jobs? (internal equity)
+- Can we hire and keep people? (the market)
+:::
+
+::: {.compare-side .accent}
+[Finance asks]{.card-heading}
+
+- Can we afford it this year?
+- Can we afford it every year after?
+:::
+:::::
+
+::: {.takeaway .fragment}
+Compensation is where HR and the budget meet.
+:::
+
+
+## What Are We Paying For? {.section-slide data-background-color="#102a43"}
+
+## Plan of Discussion
+
+:::::: {.lens-list .cb-outcomes}
+::: lens
+[1]{.lens-num}
+
+<p>What are we paying for? Understanding a philosophy of pay</p>
+:::
+
+::: lens
+[2]{.lens-num}
+
+<p>Understanding rationales behind different pay systems</p>
+:::
+
+::: lens
+[3]{.lens-num}
+
+<p>Benefits: mandated and discretionary</p>
+:::
+::::::
+
+::: takeaway
+Emphasis on strategic HRM
+:::
+
+## A Philosophy of Pay
+
+::: big-question
+What do we pay for in organizations?
+:::
+
+::::: {.compare .jd .roomy .jd-cols .cb-persp}
+::: {.compare-side .fragment}
+[Employer's perspective]{.card-heading}
+
+- What are we buying: time, output, skills, loyalty?
+:::
+
+::: {.compare-side .accent .fragment}
+[Employee's perspective]{.card-heading}
+
+- What am I being paid for, and is it fair?
+:::
+:::::
+
+::: {.takeaway .fragment}
+Pay is as much about symbols as it is about cash.
+:::
+
+## Logic Model for Connecting Pay to Mission
+
+```{=html}
+<div class="cb-pyr-wrap">
+<div class="cb-pyr">
+<div class="cb-tier" style="width:100%">Mission</div>
+<div class="cb-tier" style="width:88%">Workforce Planning</div>
+<div class="cb-tier cb-wk6" style="width:76%">Position Analysis</div>
+<div class="cb-tier cb-wk6" style="width:64%">Job Description</div>
+<div class="cb-tier cb-wk6" style="width:52%">Job Evaluation</div>
+<div class="cb-tier cb-wk6" style="width:40%">Classification</div>
+<div class="cb-tier cb-pay" style="width:28%">Pay</div>
+</div>
+<div class="cb-pyr-notes">
+<div class="cb-pyr-note"><span class="tl-year">Week 4</span><p>Strategic HRM: mission and workforce planning</p></div>
+<div class="cb-pyr-note cb-wk6-note fragment" data-fragment-index="1"><span class="tl-year">Week 6</span><p>Job analysis, job descriptions, job evaluation, classification</p></div>
+<div class="cb-pyr-note cb-pay-note fragment" data-fragment-index="2"><span class="tl-year">Tonight</span><p>Pay comes last: it rests on every step above it</p></div>
+</div>
+</div>
+```
+
+## Compensation Strategies
+
+::::::::: {.system-grid .roomy-grid .cb-strats}
+::: system-item
+[Single rate]{.card-heading}
+
+<p>Everyone in the job is paid the same; across-the-board cost-of-living raises tied to the Consumer Price Index</p>
+:::
+
+::: system-item
+[Time based]{.card-heading}
+
+<p>Steps based on longevity; "make no distinction between high performers and low performers"</p>
+:::
+
+::: system-item
+[Productivity based]{.card-heading}
+
+<p>Pay tied to a preset output goal; works only when outputs are "unambiguous and easily measured"</p>
+:::
+
+::: system-item
+[Person based]{.card-heading}
+
+<p>Pay follows the person's competencies, experience, education, and seniority, not the position</p>
+:::
+
+::: system-item
+[Pay-for-performance]{.card-heading}
+
+<p>Increases "dependent on performance appraisal ratings, rather than on years of experience"</p>
+:::
+
+::: system-item
+[Equity adjustments]{.card-heading}
+
+<p>When an audit shows a job is paid below market, or similar jobs are paid very differently</p>
+:::
+:::::::::
+
+::: {.question-bar .fragment}
+Which of these have you been paid under?
+:::
+
+## Activity: Employee or Manager? {.activity-slide data-background-color="#176b87"}
+
+::: activity-prompt
+Single rate, time based, productivity based, person based, pay-for-performance.
+:::
+
+1.  As an employee, which do you prefer and why?
+2.  As a manager, which do you prefer and why?
+3.  Does your answer change when you switch roles? Why?
+
+::: activity-close
+10 minutes in groups
+:::
+
+## Step Pay and Pay-for-Performance
+
+::::: {.compare .jd .roomy .rs-quote}
+::: compare-side
+[Step-based pay]{.card-heading}
+
+Easy to operationalize, "increments are predictable and transparent, and they do not encourage competition among coworkers."
+
+But "for those whose performance is motivated by raises, the reliability of increments removes the incentive to perform at a higher-than-average level."
+:::
+
+::: {.compare-side .accent .fragment}
+[Pay-for-performance]{.card-heading}
+
+"While the theory is that pay-for-performance places the decision of how hard to work on the employee, in fact, in most jobs it hands more discretion to the supervisor, who has leverage over the employee."
+:::
+:::::
+
+::: {.takeaway .fragment}
+Effective pay-for-performance depends on fair and effective performance appraisals. (Week 9)
+:::
+
+::: source-line
+Guy & Sowa instructor manual, Ch. 7 key words.
+:::
+
+## What Motivates Public Employees? {.section-slide data-background-color="#102a43"}
+
+## How Do You Motivate Public Employees?
+
+```{=html}
+<div class="el-chips cb-chips cb-sources">
+<span class="el-chip">Job security</span><span class="el-chip">Public service</span><span class="el-chip">Pay and benefits</span><span class="el-chip">Professional accomplishment</span><span class="el-chip">Devotion to a cause, policy, or mission</span>
+</div>
+```
+
+::::: {.compare .jd .roomy .rs-quote .cb-motive}
+::: {.compare-side .fragment}
+[Extrinsic motivation]{.card-heading}
+
+Based on an expectation of earning some kind of external reward, or avoiding some kind of punishment
+:::
+
+::: {.compare-side .accent .fragment}
+[Intrinsic motivation]{.card-heading}
+
+Based on internal satisfaction, enjoyment, and pride
+:::
+:::::
+
+::: {.question-bar .fragment}
+Which of these brought you to your job? Which keeps you there?
+:::
+
+## Taylor and Scientific Management (1911)
+
+```{=html}
+<div class="cb-taylor">
+<div class="cb-taylor-quote"><p>“One of the very first requirements for a man who is fit to handle pig iron as a regular occupation is that he shall be so stupid and so phlegmatic that he more nearly resembles in his mental make-up the ox than any other type.”</p></div>
+<div class="cb-taylor-stats">
+<div class="stat fragment"><span class="stat-number">12½ → 47½</span><p>Tons of pig iron loaded per man per day, Bethlehem Steel</p></div>
+<div class="stat fragment"><span class="stat-number">$1.15 → $1.85</span><p>“Schmidt’s” daily wage for doing it Taylor’s way</p></div>
+</div>
+</div>
+```
+
+::: {.takeaway .fragment}
+Taylor believed workers were motivated primarily by pay: pay them according to productivity.
+:::
+
+::: source-line
+Frederick W. Taylor, *The Principles of Scientific Management* (1911). The pursuit of "the one best way"; efficiency and economy.
+:::
+
+## The Human Relations Movement
+
+::: {.timeline .cb-hr}
+<div class="tl-step cb-hr-taylor"><span class="tl-year">1911</span><span class="card-heading">Taylor</span><p>Scientific management: the one best way; pay for output</p></div>
+<div class="tl-step"><span class="tl-year">1918</span><span class="card-heading">Mary Parker Follett</span><p>The “law of the situation”; authority as power with, not over</p></div>
+<div class="tl-step accent-step"><span class="tl-year">1924–32</span><span class="card-heading">Mayo: Hawthorne studies</span><p>Attention and informal groups raise productivity: money is not everything</p></div>
+<div class="tl-step"><span class="tl-year">1938</span><span class="card-heading">Chester Barnard</span><p>The organization as a cooperative system; the “zone of indifference”</p></div>
+<div class="tl-step"><span class="tl-year">1943</span><span class="card-heading">Abraham Maslow</span><p>A hierarchy of needs explains why people respond to different incentives</p></div>
+<div class="tl-step"><span class="tl-year">1960</span><span class="card-heading">Douglas McGregor</span><p>Theory X and Theory Y: what managers assume about workers</p></div>
+:::
+
+::: {.takeaway .fragment}
+The Hawthorne studies were the first empirical challenge to Taylor's scientific management.
+:::
+
+## Maslow's Hierarchy of Needs (1943)
+
+```{=html}
+<div class="cb-mz">
+<div class="cb-mz-head"><span>Need</span><span>Workplace incentive</span></div>
+<div class="cb-mz-row"><div class="cb-mz-wrap"><div class="cb-mz-tier" style="width:44%">Self-actualization</div></div><p>Personal and professional development</p></div>
+<div class="cb-mz-row"><div class="cb-mz-wrap"><div class="cb-mz-tier" style="width:58%">Esteem</div></div><p>The ability to take pride in work</p></div>
+<div class="cb-mz-row"><div class="cb-mz-wrap"><div class="cb-mz-tier" style="width:72%">Social</div></div><p>Recognition of good performance</p></div>
+<div class="cb-mz-row"><div class="cb-mz-wrap"><div class="cb-mz-tier" style="width:86%">Security</div></div><p>Job security</p></div>
+<div class="cb-mz-row cb-mz-pay"><div class="cb-mz-wrap"><div class="cb-mz-tier" style="width:100%">Physiological</div></div><p>Salary and benefits</p></div>
+</div>
+```
+
+::: {.question-bar .fragment}
+Where on the pyramid does tonight's chapter live?
+:::
+
+## McGregor: Theory X and Theory Y (1960)
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[Theory X]{.card-heading}
+
+- The average person dislikes work and will avoid it if they can
+- Most people must be coerced, controlled, directed, or threatened with punishment
+- The average person prefers to be directed and wants security above all
+:::
+
+::: {.compare-side .accent .fragment}
+[Theory Y]{.card-heading}
+
+- Effort at work is as natural as play or rest
+- Control and threats are not the only ways to bring about effort
+- Commitment to objectives is a function of the rewards for achieving them
+- Under the right conditions, people seek responsibility
+:::
+:::::
+
+::: {.question-bar .fragment}
+Which theory does step pay assume? Which does pay-for-performance assume?
+:::
+
+## Video: Ron's Method vs. Chris's Method
+
+::: jd-lead
+"Ron's method vs Chris' method," *Parks and Recreation*, Season 5, "Article Two" (3:54, [open on YouTube](https://www.youtube.com/watch?v=iegCuhhXwi0))
+:::
+
+```{=html}
+<div class="rs-video cb-video"><iframe data-yt="iegCuhhXwi0" title="Ron's method vs Chris' method | Parks and Recreation" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<script>
+// Set the YouTube URL at runtime so embed-resources doesn't inline the page; reveal.js lazy-loads data-src when the slide is shown
+document.querySelectorAll('iframe[data-yt]').forEach(f => f.setAttribute('data-src', 'https://www.youtube-nocookie.com/embed/' + f.dataset.yt + '?rel=0'));
+</script>
+```
+
+::: question-bar
+Which method relies on intrinsic motivation, and which on extrinsic? Where would pay fit in each?
+:::
+
+
+## Chris's Method or Ron's Method?
+
+```{=html}
+<div class="cb-pr">
+<figure class="cb-pr-card"><img src="images/parks-rec-chris-traeger.png" alt="Chris Traeger, played by Rob Lowe, smiling and pointing at the camera in a dark suit."><figcaption>Chris Traeger</figcaption></figure>
+<figure class="cb-pr-card"><img src="images/parks-rec-ron-swanson.png" alt="Ron Swanson, played by Nick Offerman, in a brown jacket with his hands in his pockets."><figcaption>Ron Swanson</figcaption></figure>
+</div>
+```
+
+::: question-bar
+Theory X or Theory Y? Which of Maslow's needs does each one speak to? Who would you rather work for?
+:::
+
+## Public Service Motivation
+
+::: cb-email
+"An individual's predisposition to respond to motives grounded primarily or uniquely in public institutions and organizations."
+:::
+
+::: {.system-grid .roomy-grid .cb-psm}
+<div class="system-item"><span class="card-heading">Rational</span><p>Participating in policymaking; a need for power and recognition</p></div>
+<div class="system-item"><span class="card-heading">Norm-based</span><p>A sense of duty: public service is the right thing to do</p></div>
+<div class="system-item"><span class="card-heading">Affective</span><p>Public service feels good: satisfaction from helping the community</p></div>
+:::
+
+::: {.jd-note .fragment}
+Week 7 callback: in Chattanooga, the "ready to serve?" postcard brought in no more applicants than no postcard at all.
+:::
+
+::: source-line
+Perry, J. L., & Wise, L. R. (1990). The motivational bases of public service. *Public Administration Review*, 50(3), 367–373 (definition, p. 368).
+:::
+
+## Pay-for-Performance and Intrinsic Motivation
+
+::::: {.compare .jd .roomy .rs-quote}
+::: compare-side
+[Weibel, Rost, and Osterloh (2010)]{.card-heading}
+
+A meta-analysis of experiments plus a vignette study: pay for performance raises effort through extrinsic motivation, but it can crowd out intrinsic motivation. It "is generally more costly as it appears because it almost always produces hidden costs of rewards."
+:::
+
+::: {.compare-side .accent .fragment}
+[For public managers]{.card-heading}
+
+- Structure work and incentives to account for public service motivation
+- Be careful applying private sector pay practices to the public sector
+:::
+:::::
+
+::: {.question-bar .fragment}
+If public employees are motivated by service, what should government pay for?
+:::
+
+::: source-line
+Weibel, A., Rost, K., & Osterloh, M. (2010). Pay for performance in the public sector—Benefits and (hidden) costs. *JPART*, 20(2), 387–412.
+:::
+
+## Evaluating Jobs for Compensation
+
+::: rs-lead-q
+Compensable factors: the elements of a job that give it value
+:::
+
+```{=html}
+<div class="el-chips cb-chips">
+<span class="el-chip">Level and breadth of responsibility</span><span class="el-chip">Knowledge requirements</span><span class="el-chip">Task complexity</span><span class="el-chip">Independent judgment</span><span class="el-chip">Error impact</span><span class="el-chip">Confidentiality</span><span class="el-chip">Supervisory responsibility</span><span class="el-chip">Educational requirements</span>
+</div>
+```
+
+:::::::::: {.pathway .cb-path}
+::: pathway-step
+[Point factor method]{.card-heading}
+
+<p>Score each factor</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Factors to points]{.card-heading}
+
+<p>Add up the job's points</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Points to grades]{.card-heading}
+
+<p>Point ranges map to grades</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: {.pathway-step .accent-step}
+[Grade to salary range]{.card-heading}
+
+<p>Each grade has a minimum and maximum</p>
+:::
+::::::::::
+
+::: jd-note
+Usually six to twelve factors. The General Schedule's Factor Evaluation System (Week 6) is one version.
+:::
+
+## Classification Systems
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[Rank-in-position]{.card-heading}
+
+- Salary, benefits, and rank are tied to the position
+- Move jobs, and you must qualify for the new grade
+- Example: the General Schedule
+:::
+
+::: {.compare-side .accent}
+[Rank-in-person]{.card-heading}
+
+- Salary, benefits, and rank travel with the person
+- Pay reflects competencies, experience, education, performance, seniority
+- Examples: the U.S. military, the Foreign Service
+:::
+:::::
+
+::: jd-note
+Alternatives within classification: paybanding and broadbanding, which give managers discretion over pay within a wide band (China Lake, Week 6).
+:::
+
+::: {.question-bar .fragment}
+Your experiences? Which system are you in now?
+:::
+
+## Benefits {.section-slide data-background-color="#102a43"}
+
+## Benefits
+
+::::::: lens-list
+::: lens
+[1]{.lens-num}
+
+<p>Useful for recruiting and retaining staff</p>
+:::
+
+::: lens
+[2]{.lens-num}
+
+<p>Which benefits are most meaningful to employees?</p>
+:::
+
+::: lens
+[3]{.lens-num}
+
+<p>Tangible and intangible benefits</p>
+:::
+
+::: lens
+[4]{.lens-num}
+
+<p>The difference between mandated and discretionary benefits</p>
+:::
+:::::::
+
+::: {.question-bar .fragment}
+What benefits do you look for when considering a job? What matters more now than early in your career?
+:::
+
+## Mandated and Discretionary Benefits
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[Mandated]{.card-heading}
+
+- Family and medical leave
+- Social Security
+- Medicare
+- Workers' compensation
+- Unemployment insurance
+:::
+
+::: {.compare-side .accent}
+[Common discretionary]{.card-heading}
+
+- Health, dental, and vision insurance
+- Paid leave
+- Award programs
+- Employee assistance programs
+- Retirement
+- Work/life benefits
+:::
+:::::
+
+::: {.question-bar .fragment}
+How do these differ between nonprofits and government?
+:::
+
+## Defined Benefit vs. Defined Contribution
+
+::::: {.compare .jd .roomy .rs-quote}
+::: compare-side
+[Defined benefit]{.card-heading}
+
+The benefit is "based on a predetermined formula and the employer's fund is responsible for providing the benefit for the lifetime of the retired employee."
+
+**The employer bears the risk.**
+:::
+
+::: {.compare-side .accent}
+[Defined contribution]{.card-heading}
+
+The benefit "depends on how much they contribute to the plan over time and how financial markets perform."
+
+**The employee bears the risk.**
+:::
+:::::
+
+::: jd-note
+Idaho's PERSI base plan is a defined benefit plan; many Boise State faculty and professional staff are instead in the Optional Retirement Plan (defined contribution). Federal FERS combines a basic annuity (defined benefit), the Thrift Savings Plan (defined contribution), and Social Security.
+:::
+
+::: source-line
+Guy & Sowa instructor manual, Ch. 7 key words.
+:::
+
+## Pay Law and Pay Now {.section-slide data-background-color="#102a43"}
+
+## Major Laws Governing Compensation
+
+:::::::::: {.timeline .cb-laws}
+::: tl-step
+[1938]{.tl-year}[Fair Labor Standards Act]{.card-heading}
+
+<p>Minimum wage and overtime; exempt vs. nonexempt</p>
+:::
+
+::: tl-step
+[1949]{.tl-year}[Classification Act]{.card-heading}
+
+<p>Creates the General Schedule; equal pay for substantially equal work</p>
+:::
+
+::: tl-step
+[1963]{.tl-year}[Equal Pay Act]{.card-heading}
+
+<p>No sex-based wage differences for substantially equal work</p>
+:::
+
+::: tl-step
+[1964]{.tl-year}[Title VII, Civil Rights Act]{.card-heading}
+
+<p>No pay discrimination by race, color, religion, sex, or national origin</p>
+:::
+
+::: tl-step
+[1993]{.tl-year}[Family and Medical Leave Act]{.card-heading}
+
+<p>Unpaid, job-protected leave for family and medical reasons</p>
+:::
+
+::: {.tl-step .accent-step}
+[2009]{.tl-year}[Lilly Ledbetter Fair Pay Act]{.card-heading}
+
+<p>Each discriminatory paycheck is a separate violation</p>
+:::
+
+::: tl-step
+[2010]{.tl-year}[Affordable Care Act]{.card-heading}
+
+<p>Employer health coverage requirements</p>
+:::
+::::::::::
+
+::: source-line
+Guy & Sowa instructor manual, Ch. 7 key dates.
+:::
+
+## Exempt vs. Non-exempt
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[Exempt]{.card-heading}
+
+- Not covered by the FLSA's overtime provisions
+- Executive, professional, or administrative, and meets the criteria
+- Generally paid a salary
+:::
+
+::: {.compare-side .accent}
+[Non-exempt]{.card-heading}
+
+- Overtime for all hours beyond 40 in the work week
+- Applies whether paid hourly or salaried
+- Public employers may give comp time (at time and a half) instead of cash
+:::
+:::::
+
+::: {.rs-status .fragment}
+**Where it stands in 2026.** Exempt status requires at least \$684 a week (\$35,568 a year). A court vacated the 2024 increase in November 2024; DOL restored the 2019 level May 15, 2026.
+:::
+
+::: source-line
+29 CFR 541.600 · 29 U.S.C. § 207(o) · *Texas v. U.S. Department of Labor* (E.D. Tex., Nov. 15, 2024) · DOL technical amendment, effective May 15, 2026
+:::
+
+## True or False? {.activity-slide data-background-color="#176b87"}
+
+:::::: rs-tf
+::: poll-item
+<p>Cost-of-living raises are across-the-board pay increases that are linked to the Consumer Price Index.</p>
+
+[True]{.poll-answer .fragment}
+:::
+
+::: poll-item
+<p>Paid family leave is required for at least four weeks in government organizations.</p>
+
+[False]{.poll-answer .fragment}
+:::
+
+::: poll-item
+<p>Equity adjustments are needed when salary compression occurs in organizations.</p>
+
+[True]{.poll-answer .fragment}
+:::
+::::::
+
+## Bringing It Together
+
+::: jd-lead
+- Compensation and benefits are essential considerations for all organizations
+- Compensation has tangible and intangible effects for people
+- There is not one perfect compensation plan. Employers need to consider:
+:::
+
+```{=html}
+<div class="el-chips cb-chips cb-consider">
+<span class="el-chip">Equity</span><span class="el-chip">Fairness</span><span class="el-chip">Ease of administration</span><span class="el-chip">Alignment with the market</span><span class="el-chip">Sustainability</span>
+</div>
+```
+
+::: {.takeaway .fragment}
+The purpose of organizations is to achieve a mission. Compensating people for contributing to this mission is an essential component of achieving high performance.
+:::
+
+## Pay Freezes, Federal and State
+
+:::::: {.stat-row .cb-stats}
+::: stat
+[0%]{.stat-number}
+
+<p>2027 raise for federal civilian employees: base and locality pay frozen at 2026 rates</p>
+:::
+
+::: {.stat .fragment}
+[3.8%]{.stat-number}
+
+<p>2027 raise for federal law enforcement, through OPM special rates</p>
+:::
+
+::: {.stat .fragment}
+[No raise]{.stat-number}
+
+<p>Idaho state employees, FY 2027: no Change in Employee Compensation (CEC). State base pay averages 15% behind the market median.</p>
+:::
+::::::
+
+::: {.question-bar .fragment}
+If pay can't move, what can HR still offer? And why would law enforcement be the exception?
+:::
+
+::: source-line
+Alternative pay plan letter, Aug. 26, 2026 (final in December) · Boise State HR, CEC page · Idaho DHR, FY 2027 CEC recommendation
+:::
+
+## Case Study: Paying the Tucson Police {.section-slide data-background-color="#102a43"}
+
+
+## The Final Paper at a Glance
+
+:::::: {.stat-row .cb-paper}
+::: stat
+[10–12]{.stat-number}
+
+<p>Pages, double-spaced, APA style</p>
+:::
+
+::: stat
+[8+]{.stat-number}
+
+<p>Sources, at least four of them peer-reviewed journal articles</p>
+:::
+
+::: stat
+[Dec. 16]{.stat-number}
+
+<p>Paper due in Canvas. Presentations Nov. 30 and Dec. 7</p>
+:::
+::::::
+
+:::::::::: {.pathway .cb-path}
+::: pathway-step
+[Introduction]{.card-heading}
+
+<p>Research question or thesis</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Literature review]{.card-heading}
+
+<p>Debates, gaps, current knowledge</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Analysis]{.card-heading}
+
+<p>Course concepts plus your research</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: {.pathway-step .accent-step}
+[Conclusion]{.card-heading}
+
+<p>Implications and future research</p>
+:::
+::::::::::
+
+## Next Week…
+
+**October 19: Training, developing, and retaining; performance management**
+
+Guy & Sowa, Chapters 8 and 9
+
+**Case:** The Gentleman's "Three" (student-led)
