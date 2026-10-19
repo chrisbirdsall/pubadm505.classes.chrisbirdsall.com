@@ -1,0 +1,739 @@
+---
+title: "Training, Retention, and Performance Management"
+subtitle: "PUBADM 505"
+date: "2026-10-19"
+format:
+  revealjs:
+    theme: [default, pubadm505.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    width: 1600
+    height: 900
+    margin: 0.04
+    footer: "PUBADM 505 · Personnel Management"
+    embed-resources: true
+---
+
+## Outline {.title-slide data-background-color="#102a43"}
+
+::: hero-statement
+- Federal ratings: a 40 percent cap
+- Training, developing, and retaining
+- Performance management
+- After the break: The Gentleman's "Three"
+:::
+
+## Federal Performance Ratings: A 40 Percent Cap {.section-slide data-background-color="#102a43"}
+
+## Federal Performance Ratings, FY 2024
+
+:::::: {.stat-row .pm-stats}
+::: stat
+[42.7%]{.stat-number}
+
+<p>Rated <strong>Outstanding</strong>, the highest level</p>
+:::
+
+::: {.stat .fragment}
+[21.7%]{.stat-number}
+
+<p>Rated <strong>Exceeds Fully Successful</strong>, the next level down</p>
+:::
+
+::: {.stat .fragment}
+[0.5%]{.stat-number}
+
+<p>Rated below <strong>Fully Successful</strong> (FY 2022–2024)</p>
+:::
+::::::
+
+::: jd-note
+Non-SES federal employees on five-level rating systems.
+:::
+
+::: {.question-bar .fragment}
+If almost two-thirds of employees rate above "fully successful," what does a rating tell a manager?
+:::
+
+::: source-line
+OPM, Performance Appraisal for General Schedule, Prevailing Rate, and Certain Other Employees, proposed rule, 91 FR 8780 (Feb. 24, 2026), citing agency ratings data.
+:::
+
+## The Five Rating Levels
+
+```{=html}
+<div class="pm-five">
+<div class="pm-five-row pm-five-top"><span class="pm-five-num">Level 5</span><span class="card-heading">Outstanding</span><p>The highest rating</p></div>
+<div class="pm-five-row pm-five-top"><span class="pm-five-num">Level 4</span><span class="card-heading">Exceeds Fully Successful</span><p>Above the standard</p></div>
+<div class="pm-five-row"><span class="pm-five-num">Level 3</span><span class="card-heading">Fully Successful</span><p>Meets the standard</p></div>
+<div class="pm-five-row pm-five-lo"><span class="pm-five-num">Level 2</span><span class="card-heading">Minimally Successful</span><p>Below the standard, but not failing</p></div>
+<div class="pm-five-row pm-five-lo"><span class="pm-five-num">Level 1</span><span class="card-heading">Unacceptable</span><p>Fails at least one critical element</p></div>
+</div>
+```
+
+::: {.takeaway .fragment}
+In FY 2024, 64 percent of employees on five-level systems were rated in the top two.
+:::
+
+::: jd-note
+Agencies may use as few as two levels (pass/fail). Each employee gets one summary rating a year, the rating of record.
+:::
+
+## OPM's Response
+
+::: cb-email
+"Inflated ratings carry no meaningful signal about who is performing at an exceptional level, deprive agencies of the information needed to direct the largest rewards to the employees who have earned them, and dilute awards across the workforce at the expense of top performers."
+:::
+
+```{=html}
+<div class="pm-changes">
+<div class="pm-change pm-change-cap fragment"><span class="tl-year">A cap, from FY 2026</span><p>No more than <strong>40%</strong> of each agency’s employees rated Outstanding or Exceeds, combined</p></div>
+<div class="pm-change fragment"><span class="tl-year">Four levels, not five</span><p>Level 2, Minimally Successful, is eliminated</p></div>
+<div class="pm-change fragment"><span class="tl-year">No grievances</span><p>A rating can no longer be challenged through a grievance procedure</p></div>
+<div class="pm-change fragment"><span class="tl-year">Supervisors rated on managing</span><p>Every supervisor gets a supervisory critical element</p></div>
+</div>
+```
+
+::: source-line
+OPM Director Scott Kupor, memo on FY 2026 rating distribution, Sept. 21, 2026 (the cap "is a ceiling, not a target") · Final rule, 91 FR 41521 (July 7, 2026), effective Aug. 6, 2026
+:::
+
+## The New Four-Level System
+
+```{=html}
+<div class="pm-five pm-four">
+<div class="pm-five-row pm-five-top"><span class="pm-five-num">Level 5</span><span class="card-heading">Outstanding</span><p>The highest rating</p></div>
+<div class="pm-five-row pm-five-top"><span class="pm-five-num">Level 4</span><span class="card-heading">Exceeds Fully Successful</span><p>Above the standard</p></div>
+<div class="pm-four-cap fragment"><span>Levels 4 and 5 combined: no more than 40% of an agency’s employees (64% in FY 2024)</span></div>
+<div class="pm-five-row"><span class="pm-five-num">Level 3</span><span class="card-heading">Fully Successful</span><p>Meets the standard</p></div>
+<div class="pm-five-row pm-five-gone"><span class="pm-five-num">Level 2</span><span class="card-heading">Minimally Successful</span><p>Eliminated</p></div>
+<div class="pm-five-row pm-five-lo"><span class="pm-five-num">Level 1</span><span class="card-heading">Unacceptable</span><p>Fails at least one critical element</p></div>
+</div>
+```
+
+::: {.question-bar .fragment}
+A weak performer is no longer "minimally successful." Which rating do you give them now?
+:::
+
+## Training, Developing, and Retaining {.section-slide data-background-color="#102a43"}
+
+## Training and Development
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[Training]{.card-heading}
+
+- Acquire and maintain the skills, knowledge, and abilities the job requires now
+- Examples: orientation, a new case-management system, a compliance update
+:::
+
+::: {.compare-side .accent .fragment}
+[Development]{.card-heading}
+
+- Grow with the organization, toward the roles ahead
+- Examples: job shadowing, leadership development, a graduate degree
+:::
+:::::
+
+::: {.question-bar .fragment}
+Is this MPA training or development?
+:::
+
+## Importance of Training and Development
+
+::::::: {.four-corners .roomy-corners .pm-why}
+::: corner
+[Organizational intelligence]{.card-heading}
+
+<p>Know-how accumulates in the workforce over time</p>
+:::
+
+::: corner
+[Fresh skills]{.card-heading}
+
+<p>Keep skills up to date as the work changes</p>
+:::
+
+::: corner
+[Employees want it]{.card-heading}
+
+<p>They view access to training as important</p>
+:::
+
+::: {.corner .accent}
+[A win-win]{.card-heading}
+
+<p>For organizations and for people</p>
+:::
+:::::::
+
+::: {.question-bar .fragment}
+Which is more expensive for the employer: the cost of training, or the cost of not training?
+:::
+
+## Training and Development at the Center
+
+```{=html}
+<div class="pm-tri-wrap">
+<svg class="pm-tri" viewBox="0 0 900 660" role="img" aria-label="Figure 8.1: a triangle divided into four. Mission at the top, Performance at bottom left, Organizational Intelligence at bottom right, and Training and Development in the center triangle touching all three.">
+<polygon points="450,12 240,330 660,330" class="pm-tri-out"/>
+<polygon points="240,330 30,648 450,648" class="pm-tri-out"/>
+<polygon points="660,330 450,648 870,648" class="pm-tri-out pm-tri-oi"/>
+<polygon points="240,330 660,330 450,648" class="pm-tri-mid"/>
+<text x="450" y="236" class="pm-tri-t">Mission</text>
+<text x="240" y="560" class="pm-tri-t">Performance</text>
+<text x="660" y="544" class="pm-tri-t pm-tri-oi-t">Organizational</text>
+<text x="660" y="580" class="pm-tri-t pm-tri-oi-t">Intelligence</text>
+<text x="450" y="420" class="pm-tri-t pm-tri-mid-t">Training and</text>
+<text x="450" y="458" class="pm-tri-t pm-tri-mid-t">Development</text>
+</svg>
+<div class="pm-tri-notes">
+<div class="pm-note"><span class="tl-year">Organizational intelligence</span><p>“The collective knowledge of the workforce that the organization relies on to get things done.”</p></div>
+<div class="pm-note pm-note-oi fragment"><span class="tl-year">Why retention matters</span><p>“When turnover is high, there are fewer employees left to teach newcomers.”</p></div>
+</div>
+</div>
+```
+
+## Person-Organization Fit
+
+::::::: {.definition-layout .el-def}
+::: definition-word
+P-O fit
+:::
+
+::::: definition-copy
+::: el-def-text
+"The congruence or alignment between employee and employer," when a person's "values, goals, and ethics align with those of the organization."
+:::
+
+::: el-cite-line
+Development builds fit over time, one reason employers have more confidence in internal candidates.
+:::
+:::::
+:::::::
+
+::: {.question-bar .fragment}
+In a federal agency, what is "the organization"? The agency and its mission, or the president's agenda? (Week 7)
+:::
+
+## Elements of Effective Training Programs
+
+```{=html}
+<div class="pm-etp">
+<div class="pm-etp-col">
+<div class="pm-etp-head"><span class="pm-etp-when">Before</span><span class="card-heading">Make the case</span></div>
+<div class="pm-etp-item"><span class="lens-num">1</span><p><strong>An advocate</strong>A leader who champions the program and protects its budget</p></div>
+<div class="pm-etp-item"><span class="lens-num">2</span><p><strong>Needs assessment</strong>The gap between the skills people have and the skills the work needs</p></div>
+<div class="pm-etp-item"><span class="lens-num">3</span><p><strong>Alignment</strong>Training needs tied to the mission and to the initiatives coming next</p></div>
+</div>
+<div class="pm-etp-col">
+<div class="pm-etp-head"><span class="pm-etp-when">Design</span><span class="card-heading">Make it useful</span></div>
+<div class="pm-etp-item"><span class="lens-num">4</span><p><strong>Relevancy</strong>Content trainees can apply to the work they do</p></div>
+<div class="pm-etp-item"><span class="lens-num">5</span><p><strong>Benchmarks</strong>Learning targets set up front, so you can tell whether it worked</p></div>
+</div>
+<div class="pm-etp-col pm-etp-after">
+<div class="pm-etp-head"><span class="pm-etp-when">After</span><span class="card-heading">Make it stick</span></div>
+<div class="pm-etp-item"><span class="lens-num">6</span><p><strong>Post-training reinforcement</strong>Supervisors follow up on the job, so trainees use what they learned</p></div>
+</div>
+</div>
+```
+
+::: {.question-bar .fragment}
+Which of the six is most often missing where you work?
+:::
+
+## Orientation and Onboarding
+
+::::: {.compare .jd .roomy .rs-quote}
+::: compare-side
+[Orientation]{.card-heading}
+
+Occurs on the employee's start date: "informing new hires about the details of the organization, of the job, and of employment processes."
+:::
+
+::: {.compare-side .accent .fragment}
+[Onboarding]{.card-heading}
+
+Extends through the first few months: helping the new hire "learn the culture of the organization, understand why 'we do things this way,' and develop an identification as someone who belongs."
+:::
+:::::
+
+::: {.jd-note .fragment}
+Onboarding starts with the interview (Week 7), when the recruiter describes the work and the mission.
+:::
+
+::: {.question-bar .fragment}
+In your current job, which did your employer invest in: your first day, or your first 90 days?
+:::
+
+## Assessing, Delivering, and Evaluating Training
+
+:::::::: {.pathway .cb-path .pm-ade}
+::: pathway-step
+[Assess needs]{.card-heading}
+
+<ul>
+
+<li>360-degree feedback</li>
+
+<li>Self-assessment</li>
+
+<li>Supervisor assessment</li>
+
+</ul>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Deliver]{.card-heading}
+
+<ul>
+
+<li>Online training</li>
+
+<li>In-house programs</li>
+
+<li>Off-site workshops and conferences</li>
+
+<li>Coaching</li>
+
+</ul>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: {.pathway-step .accent-step}
+[Evaluate: what is the ROI?]{.card-heading}
+
+<ul>
+
+<li>Trainee feedback</li>
+
+<li>Learning outcomes</li>
+
+<li>Performance improvement (training transfer)</li>
+
+<li>Individualized development plans</li>
+
+</ul>
+:::
+::::::::
+
+::: {.question-bar .fragment}
+The best training you've had, and the biggest failure: what made the difference?
+:::
+
+## Retention
+
+::: rs-lead-q
+Performance is threatened when good employees leave.
+:::
+
+::::::: {.system-grid .roomy-grid .pm-ret}
+::: system-item
+[Career stages]{.card-heading}
+
+<p>A new employee needs something very different from one with 5, 10, 15, or 20 years</p>
+:::
+
+::: system-item
+[Stay interviews]{.card-heading}
+
+<p>Held "well before they indicate they are considering quitting"</p>
+:::
+
+::: system-item
+[Job enrichment]{.card-heading}
+
+<p>New responsibilities for employees who no longer find their job challenging</p>
+:::
+
+::: system-item
+[Satisfaction surveys]{.card-heading}
+
+<p>"Taking the temperature" of the workforce, ideally once a year</p>
+:::
+:::::::
+
+::: {.question-bar .fragment}
+Why do people leave organizations? What has kept you in a job?
+:::
+
+## Activity: Keep This Employee {.activity-slide data-background-color="#176b87"}
+
+::: activity-prompt
+Each group gets one employee, each at a different career stage.
+:::
+
+```{=html}
+<div class="pm-stay">
+<div class="pm-stay-card"><span class="pm-stay-tag">Group 1 · 8 months in</span><p>A caseworker at a state child welfare agency. Heavy caseload; orientation was two days.</p></div>
+<div class="pm-stay-card"><span class="pm-stay-tag">Group 2 · 15 years in</span><p>A federal IT specialist with an offer from a private firm for 30 percent more.</p></div>
+<div class="pm-stay-card"><span class="pm-stay-tag">Group 3 · 24 years in</span><p>A nonprofit program director, eligible to retire in two years, the only one who knows the grant reporting.</p></div>
+</div>
+```
+
+::: jd-questions
+1.  What keeps this person here now? What would make them leave?
+2.  Pick one strategy from the last slide. What would it look like for them?
+3.  Write the one question you would ask in their stay interview.
+:::
+
+::: activity-close
+8 minutes in groups, then each group introduces its employee and its plan
+:::
+
+## Bringing It Together: Training and Performance
+
+```{=html}
+<div class="pm-fig82">
+<div class="pm-82-step"><span class="pm-82-tag">Purpose</span><div class="pm-82-box">Planning</div></div>
+<div class="pm-82-arrow">→</div>
+<div class="pm-82-step"><span class="pm-82-tag">Relatedness</span><div class="pm-82-box">Monitoring</div></div>
+<div class="pm-82-arrow">→</div>
+<div class="pm-82-step pm-82-dev"><span class="pm-82-tag">Autonomy</span><div class="pm-82-box">Developing</div></div>
+<div class="pm-82-arrow">→</div>
+<div class="pm-82-step"><span class="pm-82-tag">Competence</span><div class="pm-82-box">Rewarding</div></div>
+</div>
+```
+
+::: {.takeaway .fragment}
+Developing is one of four steps. Performance management is the whole sequence.
+:::
+
+## Performance Management {.section-slide data-background-color="#102a43"}
+
+## Experiences with Performance Appraisal
+
+:::::: {.lens-list .cb-outcomes}
+::: lens
+[1]{.lens-num}
+
+<p>What worked well?</p>
+:::
+
+::: lens
+[2]{.lens-num}
+
+<p>What worked poorly?</p>
+:::
+
+::: lens
+[3]{.lens-num}
+
+<p>Have you delivered performance feedback? How did it go?</p>
+:::
+::::::
+
+::: jd-note
+No appraisal yet? Think of feedback from a coach, or from a professor.
+:::
+
+## The Performance Management Cycle
+
+```{=html}
+<div class="pm-cyc-wrap">
+<svg class="pm-cyc" viewBox="60 0 780 712" role="img" aria-label="Figure 9.1, the performance management cycle: five circles connected by arrows. Planning for work and setting expectations, continuous monitoring, building employee capacity to perform, periodic summary of employee performance, rewarding good performance, and back to planning.">
+<defs><marker id="pm-ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c24f3d"/></marker></defs>
+<line x1="547.9" y1="201.1" x2="586.7" y2="229.2" class="pm-cyc-ar" marker-end="url(#pm-ah)"/>
+<line x1="650.4" y1="417.8" x2="635.5" y2="463.4" class="pm-cyc-ar" marker-end="url(#pm-ah)"/>
+<line x1="475.9" y1="582.3" x2="428.1" y2="582.3" class="pm-cyc-ar" marker-end="url(#pm-ah)"/>
+<line x1="265.7" y1="467.2" x2="250.8" y2="421.6" class="pm-cyc-ar" marker-end="url(#pm-ah)"/>
+<line x1="310.1" y1="231.6" x2="348.9" y2="203.5" class="pm-cyc-ar" marker-end="url(#pm-ah)"/>
+<circle cx="450" cy="130" r="116" class="pm-cyc-c"/>
+<circle cx="687.8" cy="302.7" r="116" class="pm-cyc-c"/>
+<circle cx="596.9" cy="582.3" r="116" class="pm-cyc-c pm-cyc-build"/>
+<circle cx="303.1" cy="582.3" r="116" class="pm-cyc-c pm-cyc-sum"/>
+<circle cx="212.2" cy="302.7" r="116" class="pm-cyc-c"/>
+<text x="450" y="130" class="pm-cyc-t"><tspan x="450" dy="-40.5">Planning for work</tspan><tspan x="450" dy="27">and setting</tspan><tspan x="450" dy="27">expectations for</tspan><tspan x="450" dy="27">performance</tspan></text>
+<text x="687.8" y="302.7" class="pm-cyc-t"><tspan x="687.8" dy="-27.0">Continuous</tspan><tspan x="687.8" dy="27">monitoring of</tspan><tspan x="687.8" dy="27">performance</tspan></text>
+<text x="596.9" y="582.3" class="pm-cyc-t pm-cyc-build-t"><tspan x="596.9" dy="-27.0">Building</tspan><tspan x="596.9" dy="27">employee capacity</tspan><tspan x="596.9" dy="27">to perform</tspan></text>
+<text x="303.1" y="582.3" class="pm-cyc-t pm-cyc-sum-t"><tspan x="303.1" dy="-27.0">Periodic summary</tspan><tspan x="303.1" dy="27">of employee</tspan><tspan x="303.1" dy="27">performance</tspan></text>
+<text x="212.2" y="302.7" class="pm-cyc-t"><tspan x="212.2" dy="-13.5">Rewarding good</tspan><tspan x="212.2" dy="27">performance</tspan></text>
+</svg>
+<div class="pm-tri-notes">
+<div class="pm-note pm-note-build fragment" data-fragment-index="1"><span class="tl-year">Ch. 8</span><p>Building capacity is training and development</p></div>
+<div class="pm-note pm-note-sum fragment" data-fragment-index="2"><span class="tl-year">The annual appraisal</span><p>Is one step of five, not the whole cycle</p></div>
+</div>
+</div>
+```
+
+## Why Is Performance Management Hard?
+
+```{=html}
+<div class="pm-hard">
+<div class="stat pm-hard-stat"><span class="stat-number">47%</span><p>of federal employees agree: “In my work unit, differences in performance are recognized in a meaningful way.” The lowest&#8209;scoring item on the 2024 FEVS.</p></div>
+<div class="pm-hard-list">
+<div class="pm-note"><span class="tl-year">Capacity</span><p>It takes management time and skill, not just a form</p></div>
+<div class="pm-note"><span class="tl-year">Once a year</span><p>An annual meeting can’t carry the whole load</p></div>
+<div class="pm-note"><span class="tl-year">Feedback</span><p>Developmental feedback has to come often</p></div>
+</div>
+</div>
+```
+
+::: source-line
+2024 FEVS as reported in OPM's proposed rule, 91 FR 8780 (Feb. 24, 2026).
+:::
+
+## Judging Versus Developing
+
+::::: {.compare .jd .roomy .rs-quote}
+::: compare-side
+[Judgmental feedback]{.card-heading}
+
+A summary of performance across a period, "an evaluation or ranking of that performance," often "followed with some sort of personnel action (reward or sanction)."
+:::
+
+::: {.compare-side .accent}
+[Developmental feedback]{.card-heading}
+
+"Future oriented," building on the employee's strengths and competencies. "More immediate and on-going than a regularly scheduled evaluation."
+:::
+:::::
+
+::: {.question-bar .fragment}
+What goes wrong when one annual meeting tries to do both?
+:::
+
+::: {.jd-note .fragment}
+360-degree appraisals give a holistic view for development, but present problems "when used for judgmental feedback," such as raises.
+:::
+
+## What Do You Evaluate?
+
+:::::: {.three-words .rs-int .pm-eval}
+::: word-block
+[Behaviors]{.card-heading}
+
+<p>How employees carry out the core components of the job, starting from the job description (Week 6)</p>
+:::
+
+::: word-block
+[Results]{.card-heading}
+
+<p>Whether employees meet their goals or targets for the period</p>
+:::
+
+::: {.word-block .pm-eval-comp}
+[Comparison-based]{.card-heading}
+
+<p>How employees rank against their peers. Risks "a climate of competition and zero-sum behavior"</p>
+:::
+::::::
+
+::: takeaway
+In public service, both means and ends are important.
+:::
+
+::: {.question-bar .fragment}
+Where does a 40 percent cap fit on this slide?
+:::
+
+## Performance Elements and Standards
+
+```{=html}
+<div class="pm-std">
+<div class="ksa-item"><p><strong>Performance element:</strong> what the employee has to do</p></div>
+<div class="ksa-item pm-std-crit"><p><strong>Critical element:</strong> so fundamental that unacceptable performance on it means unacceptable performance overall</p></div>
+<div class="ksa-item"><p><strong>Performance standard:</strong> how well the employee should perform the element. Objective, measurable, and realistic, and written at each level</p></div>
+</div>
+<div class="pm-std-label">Kinds of standards</div>
+<div class="el-chips pm-chips"><span class="el-chip">Quality</span><span class="el-chip">Productivity</span><span class="el-chip">Timeliness</span><span class="el-chip">Cost effectiveness</span><span class="el-chip">Relational</span></div>
+```
+
+::: source-line
+U.S. Office of Personnel Management definitions.
+:::
+
+## Writing Standards: An Example
+
+::: jd-lead
+**Element:** Process public records requests (records specialist, city clerk's office)
+:::
+
+```{=html}
+<div class="pm-levels">
+<div class="pm-level pm-level-hi"><span class="card-heading">Exceptional</span><p>Every request answered within the legal deadline; complex requests scoped with the requester early</p></div>
+<div class="pm-level pm-level-mid"><span class="card-heading">Fully successful</span><p>Every request answered within the legal deadline; redactions accurate when reviewed</p></div>
+<div class="pm-level pm-level-lo"><span class="card-heading">Unacceptable</span><p>Legal deadlines missed, or redaction errors found on review</p></div>
+</div>
+```
+
+::: {.question-bar .fragment}
+Your turn: pick one duty from your own job. Write the "fully successful" line in one sentence.
+:::
+
+## Rating Errors
+
+::::::::: {.system-grid .roomy-grid .pm-errors}
+::: system-item
+[Halo effect]{.card-heading}
+
+<p>One strength colors the whole rating</p>
+:::
+
+::: system-item
+[Horns effect]{.card-heading}
+
+<p>One weakness colors the whole rating</p>
+:::
+
+::: system-item
+[Central tendency]{.card-heading}
+
+<p>Rating employees in the middle "to avoid high or low judgments"</p>
+:::
+
+::: system-item
+[Recency bias]{.card-heading}
+
+<p>The last few weeks outweigh the whole year</p>
+:::
+
+::: system-item
+[Leniency]{.card-heading}
+
+<p>Rating everyone high to avoid a hard conversation</p>
+:::
+
+::: system-item
+[Personal bias]{.card-heading}
+
+<p>Liking, disliking, or not knowing the employee</p>
+:::
+:::::::::
+
+::: {.takeaway .fragment}
+Raters need training on the standards and the process.
+:::
+
+::: {.question-bar .fragment}
+Which of these have you seen where you work?
+:::
+
+## When Performance Doesn't Improve
+
+:::::::::: {.pathway .cb-path .pm-disc}
+::: pathway-step
+[Coaching]{.card-heading}
+
+<p>Supervisor and employee work on it together</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Improvement plan]{.card-heading}
+
+<p>Specific gaps, targets, support, and a timeline</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Progressive discipline]{.card-heading}
+
+<p>Verbal warning, written warning, warning with sanctions</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: {.pathway-step .accent-step}
+[Adverse action]{.card-heading}
+
+<p>Suspension, reduction in grade or pay, termination</p>
+:::
+::::::::::
+
+::: {.takeaway .fragment}
+A PIP should be undertaken "with the expectation that the employee will improve," not to "document offenses to terminate later."
+:::
+
+## Due Process in Public Employment
+
+:::::::::: {.pathway .cb-path .pm-dp}
+::: pathway-step
+[Notice]{.card-heading}
+
+<p>Of the action that will restrict rights</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Explanation]{.card-heading}
+
+<p>Of what is occurring, and why</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[A chance to respond]{.card-heading}
+
+<p>Usually a hearing</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: {.pathway-step .accent-step}
+[The decision]{.card-heading}
+
+<p>And an explanation of it</p>
+:::
+::::::::::
+
+::: jd-note
+The Fifth and Fourteenth Amendments: an employee with a property right in the job is owed due process before an adverse action.
+:::
+
+## Back to the 40 Percent Cap
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[What a cap could fix]{.card-heading}
+
+- Leniency: ratings that "carry no meaningful signal"
+- Larger awards for the top performers
+- Managers forced into hard conversations
+:::
+
+::: {.compare-side .accent .fragment}
+[What a cap could create]{.card-heading}
+
+- Comparison-based ratings, and zero-sum behavior
+- Fights over who gets the top slots
+- New rater errors
+:::
+:::::
+
+## Case Study: The Gentleman's "Three" {.section-slide data-background-color="#102a43"}
+
+## Next Week…
+
+**October 26: Labor relations and collective bargaining**
+
+Guy & Sowa, Chapter 10
+
+**Case:** Navigating Labor Unrest
