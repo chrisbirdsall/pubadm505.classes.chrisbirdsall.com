@@ -22,7 +22,7 @@ format:
 
 ::: hero-statement
 - Labor relations and collective bargaining
-- Fair workplaces: justice, due process, harassment
+- Fair workplaces: justice and harassment
 - After the break: Jailhouse Follies
 :::
 
@@ -52,89 +52,39 @@ Exec. Order No. 14251, Exclusions from Federal Labor-Management Relations Progra
 <div class="stat fragment"><span class="stat-number">37.8%</span><p>in local government: teachers, police, firefighters</p></div>
 :::
 
-::: {.question-bar .fragment}
-Why are the most unionized public employees the ones on the front line?
-:::
-
 ::: source-line
 U.S. Bureau of Labor Statistics, Union Members — 2025 (Feb. 18, 2026).
 :::
 
-## Three Legal Regimes
+## Who Can Bargain Depends on Who You Work For
 
 ::::::: {.system-cols .lr-regimes}
 ::: system-col
 [Private and nonprofit]{.card-heading}
 
-<p>National Labor Relations Act (1935)</p>
-<p>Enforced by the NLRB</p>
-<p>Right to strike</p>
+<p>National Labor Relations Act; may strike</p>
 :::
 
 ::: system-col
 [Federal]{.card-heading}
 
-<p>Civil Service Reform Act (1978)</p>
-<p>Enforced by the FLRA</p>
-<p>No strikes; pay set by law, not bargained</p>
+<p>Civil Service Reform Act; no strikes; pay isn't bargained</p>
 :::
 
 ::: {.system-col .lr-idaho}
 [State and local]{.card-heading}
 
-<p>Each state decides</p>
-<p>**Idaho:** right-to-work (1985); bargaining for firefighters and teachers; none for state agency employees</p>
+<p>Each state decides. **Idaho:** firefighters and teachers bargain; state agency employees don't</p>
 :::
 :::::::
 
-::: {.jd-note .fragment}
-*Janus v. AFSCME* (2018): no government employer may collect fees from employees who don't join the union.
-:::
-
-## How Public-Sector Labor Law Got Here
-
-:::: {.timeline .lr-tl}
-<div class="tl-step"><span class="tl-year">1912</span><span class="card-heading">Lloyd–La Follette</span><p>Federal employees may join employee organizations</p></div>
-<div class="tl-step"><span class="tl-year">1935</span><span class="card-heading">Wagner Act</span><p>Private-sector right to organize and bargain; creates the NLRB</p></div>
-<div class="tl-step"><span class="tl-year">1947</span><span class="card-heading">Taft–Hartley</span><p>Bans the closed shop; lets states pass right-to-work laws</p></div>
-<div class="tl-step"><span class="tl-year">1962</span><span class="card-heading">EO 10988</span><p>Kennedy lets federal employees bargain</p></div>
-<div class="tl-step"><span class="tl-year">1978</span><span class="card-heading">CSRA</span><p>Puts federal bargaining in statute; creates the FLRA</p></div>
-<div class="tl-step"><span class="tl-year">1981</span><span class="card-heading">PATCO</span><p>Reagan fires about 11,000 striking air traffic controllers</p></div>
-<div class="tl-step"><span class="tl-year">2018</span><span class="card-heading">*Janus*</span><p>Ends agency fees in government</p></div>
-<div class="tl-step accent-step"><span class="tl-year">2025</span><span class="card-heading">EO 14251</span><p>Excludes most federal agencies from bargaining</p></div>
-::::
-
-## Do We Still Need Unions in Government?
-
-::::: {.compare .jd .roomy .jd-cols}
-::: compare-side
-[For]{.card-heading}
-
-- A voice for employees in decisions about their work
-- Clear, written rules for discipline and promotion
-- A check on favoritism and political firing
-:::
-
-::: {.compare-side .accent .fragment}
-[Against]{.card-heading}
-
-- "Management" is the public: officials bargain with groups that help elect them
-- Less flexibility to assign, reward, and discipline
-- Civil service law already protects employees
-:::
-:::::
-
-::: {.question-bar .fragment}
-Where do you stand as an employee? As a manager?
-:::
-
-## Collective Bargaining in Three Steps
+## Bargaining, Step by Step
 
 :::::::::: {.pathway .lr-path}
 ::: pathway-step
-[1. Unit determination]{.card-heading}
+[Who's in the unit]{.card-heading}
 
-<p>Which employees share a "community of interest," and which union represents them</p>
+<p>Employees with a shared "community of interest"</p>
 :::
 
 ::: pathway-arrow
@@ -142,9 +92,9 @@ Where do you stand as an employee? As a manager?
 :::
 
 ::: pathway-step
-[2. Negotiation]{.card-heading}
+[Negotiate]{.card-heading}
 
-<p>Scope: mandatory, permissive, and prohibited subjects. Some decisions stay management rights</p>
+<p>Some subjects must be bargained; some stay with management</p>
 :::
 
 ::: pathway-arrow
@@ -152,57 +102,23 @@ Where do you stand as an employee? As a manager?
 :::
 
 ::: {.pathway-step .accent-step}
-[3. Administration]{.card-heading}
+[Live with the contract]{.card-heading}
 
-<p>Living with the contract: grievances, and labor-management partnerships</p>
-:::
-::::::::::
-
-::: {.takeaway .fragment}
-Most of the work happens in step 3, during the years the contract is in force.
-:::
-
-## When Talks Stall: Impasse
-
-:::::::::: {.pathway .lr-path}
-::: pathway-step
-[Mediation]{.card-heading}
-
-<p>A neutral helps the two sides find a deal. Not binding</p>
-:::
-
-::: pathway-arrow
-→
-:::
-
-::: pathway-step
-[Fact-finding]{.card-heading}
-
-<p>A neutral reviews the facts and writes recommendations. Not binding</p>
-:::
-
-::: pathway-arrow
-→
-:::
-
-::: {.pathway-step .accent-step}
-[Arbitration]{.card-heading}
-
-<p>A neutral decides. Binding; sometimes "final offer," choosing one side's proposal</p>
+<p>Grievances, for the life of the contract</p>
 :::
 ::::::::::
 
 ::: {.jd-note .fragment}
-Strikes: federal employees may not strike. State and local rules vary.
+If talks stall: mediation, then fact-finding, then binding arbitration.
 :::
 
-## Grievances: Where the Contract Meets Fairness
+## Grievances End with a Neutral
 
 :::::::::: {.pathway .lr-path .lr-griev}
 ::: pathway-step
-[Employee and steward]{.card-heading}
+[Supervisor]{.card-heading}
 
-<p>Raise it with the supervisor</p>
+<p>Employee and union steward</p>
 :::
 
 ::: pathway-arrow
@@ -212,7 +128,7 @@ Strikes: federal employees may not strike. State and local rules vary.
 ::: pathway-step
 [Department head]{.card-heading}
 
-<p>A written appeal, on a deadline</p>
+<p>A written appeal</p>
 :::
 
 ::: pathway-arrow
@@ -240,13 +156,30 @@ Strikes: federal employees may not strike. State and local rules vary.
 Tonight's case is decided at the last step.
 :::
 
-## Fair and Inclusive Workplaces {.section-slide data-background-color="#102a43"}
+## Activity: Should They Bargain? {.activity-slide data-background-color="#176b87"}
 
-## What Makes a Workplace Fair?
-
-::: big-question
-Think of a decision at work that felt unfair. Was it the outcome, the way it was made, or the way you were treated?
+::: activity-prompt
+Each group gets one workforce.
 :::
+
+```{=html}
+<div class="pm-stay lr-stay">
+<div class="pm-stay-card"><span class="pm-stay-tag">Group 1</span><p>Employees at an Idaho state agency, who can't bargain today</p></div>
+<div class="pm-stay-card"><span class="pm-stay-tag">Group 2</span><p>Caseworkers at a Boise nonprofit</p></div>
+<div class="pm-stay-card"><span class="pm-stay-tag">Group 3</span><p>Nurses at a VA medical center, where EO 14251 ended bargaining</p></div>
+</div>
+```
+
+::: jd-questions
+1.  Should they be able to bargain? Give one reason for and one against.
+2.  What's the first thing they'd want on the table?
+:::
+
+::: activity-close
+8 minutes in groups, then each group reports
+:::
+
+## Fair and Inclusive Workplaces {.section-slide data-background-color="#102a43"}
 
 ## Organizational Justice
 
@@ -254,57 +187,25 @@ Think of a decision at work that felt unfair. Was it the outcome, the way it was
 ::: system-item
 [Distributive]{.card-heading}
 
-<p>Are outcomes, like pay, promotions, and assignments, allocated fairly?</p>
+<p>Were the outcomes fair?</p>
 :::
 
-::: {.system-item .fragment}
+::: system-item
 [Procedural]{.card-heading}
 
-<p>Is the process used to reach them fair and consistent?</p>
+<p>Was the process fair?</p>
 :::
 
-::: {.system-item .fragment}
+::: system-item
 [Interactional]{.card-heading}
 
-<p>Is the decision explained, and are people treated with respect?</p>
+<p>Were people told why, and treated with respect?</p>
 :::
 :::::::
 
-::: {.takeaway .fragment}
-People accept decisions they don't like when they believe the process was fair.
+::: {.question-bar .fragment}
+Think of a decision at work that felt unfair. Which kind of justice was missing?
 :::
-
-## Due Process, Revisited
-
-::::: {.compare .jd .roomy .jd-cols}
-::: compare-side
-[Substantive due process]{.card-heading}
-
-<p>Government can't take life, liberty, or property without good reason</p>
-:::
-
-::: compare-side
-[Procedural due process]{.card-heading}
-
-<p>Notice, an explanation, a chance to respond, and an explained decision</p>
-:::
-:::::
-
-::: {.takeaway .fragment}
-*Cleveland Board of Education v. Loudermill* (1985): a public employee with a property right in the job gets a hearing **before** termination.
-:::
-
-## Equal Employment Opportunity Law
-
-:::: {.timeline .lr-tl}
-<div class="tl-step"><span class="tl-year">1963</span><span class="card-heading">Equal Pay Act</span><p>Equal pay for substantially equal work</p></div>
-<div class="tl-step accent-step"><span class="tl-year">1964</span><span class="card-heading">Title VII</span><p>Race, color, religion, sex, national origin</p></div>
-<div class="tl-step"><span class="tl-year">1967</span><span class="card-heading">ADEA</span><p>Age, 40 and over</p></div>
-<div class="tl-step"><span class="tl-year">1973</span><span class="card-heading">Rehabilitation Act</span><p>Disability, in federal employment and contracts</p></div>
-<div class="tl-step"><span class="tl-year">1978</span><span class="card-heading">Pregnancy Discrimination Act</span><p>Pregnancy and childbirth</p></div>
-<div class="tl-step"><span class="tl-year">1990</span><span class="card-heading">ADA</span><p>Disability, extended to state, local, and private employers</p></div>
-<div class="tl-step"><span class="tl-year">2008</span><span class="card-heading">GINA</span><p>Genetic information</p></div>
-::::
 
 ## Two Kinds of Sexual Harassment
 
@@ -322,15 +223,11 @@ People accept decisions they don't like when they believe the process was fair.
 :::
 :::::
 
-::: {.jd-note .fragment}
-*Meritor Savings Bank v. Vinson* (1986): sexual harassment is sex discrimination under Title VII.
-:::
-
 ::: {.question-bar .fragment}
 Does it matter whether the harasser meant it?
 :::
 
-## What the Employer Has to Have in Place
+## What the Employer Needs in Place
 
 :::::::::: {.pathway .lr-path .lr-employer}
 ::: pathway-step
@@ -370,51 +267,23 @@ Does it matter whether the harasser meant it?
 :::
 ::::::::::
 
-::: {.jd-note .fragment}
-*Faragher v. City of Boca Raton* and *Burlington Industries v. Ellerth* (1998): these steps are the employer's defense when a supervisor harasses.
-:::
-
 ## Activity: The List {.activity-slide data-background-color="#176b87"}
 
 ::: activity-prompt
-You work in HR for a mid-sized city. Your best friend works for the city too, is about to have a baby, and closes on a new house in 45 days.
+You work in HR for a city. Your best friend works for the city too, has a baby on the way, and closes on a house next month.
 :::
 
 ::: activity-prompt
-A memo from the city manager lists the employees who will be let go in a reduction in force over the next 30 days. Your friend is on it.
+A memo lists the employees who will be laid off in 30 days. Your friend is on it.
 :::
 
 ::: jd-questions
 1.  Do you tell your friend?
-2.  Which kind of justice is at stake: for your friend, and for everyone else on the list?
+2.  Is that fair to everyone else on the list?
 :::
 
 ::: activity-close
-5 minutes with a neighbor, then a show of hands
-:::
-
-## Bringing It Together
-
-::::: {.compare .jd .roomy .jd-cols}
-::: compare-side
-[Labor relations]{.card-heading}
-
-- Bargaining in good faith
-- Grievance procedures
-- A neutral at the end
-:::
-
-::: compare-side
-[Fair workplaces]{.card-heading}
-
-- Organizational justice
-- Due process
-- EEO law and harassment policy
-:::
-:::::
-
-::: {.takeaway .fragment}
-Both chapters are about the same thing: a fair process, so that decisions people dislike still hold.
+5 minutes in groups, then each group gives its answer
 :::
 
 ## Case Study: Jailhouse Follies {.section-slide data-background-color="#102a43"}

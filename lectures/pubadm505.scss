@@ -649,8 +649,6 @@ $backgroundColor: #f7f4ed;
 .reveal .lr-eo { grid-template-columns: repeat(3, 1fr); }
 .reveal .lr-eo .tl-step p { font-size: .74em; }
 .reveal .lr-eo .tl-step .card-heading { font-size: .95em; }
-.reveal .lr-tl { grid-template-columns: repeat(4, 1fr); }
-.reveal .lr-tl .tl-step p { font-size: .7em; }
 .reveal .lr-regimes .system-col p { margin: 0 0 .35em; font-size: .8em; line-height: 1.3; }
 .reveal .lr-regimes .system-col .card-heading { text-transform: none; font-variant: normal; letter-spacing: 0; }
 .reveal .lr-regimes .lr-idaho { border-top-color: var(--coral); background: #f8e9e4; }
@@ -666,3 +664,8 @@ $backgroundColor: #f7f4ed;
 .reveal .system-grid.roomy-grid.lr-justice .system-item { padding: .8em .8em; }
 .reveal .system-grid.roomy-grid.lr-justice .system-item p { margin: 0; font-size: .86em; }
 .reveal .activity-slide .activity-prompt + .activity-prompt { margin-top: -.2em; }
+.reveal .pm-stay.lr-stay { margin-bottom: .8em; }
+.reveal .pm-stay.lr-stay .pm-stay-tag { font-size: .62em; }
+.reveal .pm-stay.lr-stay .pm-stay-card { padding: .5em .7em .6em; }
+.reveal .pm-stay.lr-stay .pm-stay-card p { font-size: .8em; }
+.reveal .activity-slide .lr-stay + .jd-questions ol, .reveal .activity-slide .activity-prompt + .jd-questions ol { font-size: .85em; }
