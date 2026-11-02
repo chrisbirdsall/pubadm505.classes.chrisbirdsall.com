@@ -1,0 +1,428 @@
+---
+title: "Labor Relations and Fair Workplaces"
+subtitle: "PUBADM 505"
+date: "2026-11-02"
+format:
+  revealjs:
+    theme: [default, pubadm505.scss]
+    slide-number: c/t
+    show-slide-number: all
+    transition: fade
+    background-transition: fade
+    controls: true
+    progress: true
+    width: 1600
+    height: 900
+    margin: 0.04
+    footer: "PUBADM 505 · Personnel Management"
+    embed-resources: true
+---
+
+## Outline {.title-slide data-background-color="#102a43"}
+
+::: hero-statement
+- Labor relations and collective bargaining
+- Fair workplaces: justice, due process, harassment
+- After the break: Jailhouse Follies
+:::
+
+## Labor Relations and Collective Bargaining {.section-slide data-background-color="#102a43"}
+
+## Federal Bargaining Rights, by Executive Order
+
+:::: {.timeline .lr-eo}
+<div class="tl-step accent-step"><span class="tl-year">March 27, 2025</span><span class="card-heading">Executive Order 14251</span><p>Excludes most federal agencies from collective bargaining, citing national security</p></div>
+<div class="tl-step fragment"><span class="tl-year">2025</span><span class="card-heading">Unions sue</span><p>A district court blocks the order; agencies stop honoring contracts where they can</p></div>
+<div class="tl-step fragment"><span class="tl-year">Feb. 26, 2026</span><span class="card-heading">Ninth Circuit</span><p>Lifts the injunction. The order is "grounded in national security"; the lawsuit goes on</p></div>
+::::
+
+::: {.question-bar .fragment}
+If a president can end bargaining by executive order, what does a union contract in government protect?
+:::
+
+::: source-line
+Exec. Order No. 14251, Exclusions from Federal Labor-Management Relations Programs (Mar. 27, 2025); *AFGE v. Trump* (9th Cir. Feb. 26, 2026).
+:::
+
+## Unions Are Strongest in Government
+
+::: {.stat-row}
+<div class="stat"><span class="stat-number">32.9%</span><p>of public-sector workers are union members</p></div>
+<div class="stat fragment"><span class="stat-number">5.9%</span><p>of private-sector workers are</p></div>
+<div class="stat fragment"><span class="stat-number">37.8%</span><p>in local government: teachers, police, firefighters</p></div>
+:::
+
+::: {.question-bar .fragment}
+Why are the most unionized public employees the ones on the front line?
+:::
+
+::: source-line
+U.S. Bureau of Labor Statistics, Union Members — 2025 (Feb. 18, 2026).
+:::
+
+## Three Legal Regimes
+
+::::::: {.system-cols .lr-regimes}
+::: system-col
+[Private and nonprofit]{.card-heading}
+
+<p>National Labor Relations Act (1935)</p>
+<p>Enforced by the NLRB</p>
+<p>Right to strike</p>
+:::
+
+::: system-col
+[Federal]{.card-heading}
+
+<p>Civil Service Reform Act (1978)</p>
+<p>Enforced by the FLRA</p>
+<p>No strikes; pay set by law, not bargained</p>
+:::
+
+::: {.system-col .lr-idaho}
+[State and local]{.card-heading}
+
+<p>Each state decides</p>
+<p>**Idaho:** right-to-work (1985); bargaining for firefighters and teachers; none for state agency employees</p>
+:::
+:::::::
+
+::: {.jd-note .fragment}
+*Janus v. AFSCME* (2018): no government employer may collect fees from employees who don't join the union.
+:::
+
+## How Public-Sector Labor Law Got Here
+
+:::: {.timeline .lr-tl}
+<div class="tl-step"><span class="tl-year">1912</span><span class="card-heading">Lloyd–La Follette</span><p>Federal employees may join employee organizations</p></div>
+<div class="tl-step"><span class="tl-year">1935</span><span class="card-heading">Wagner Act</span><p>Private-sector right to organize and bargain; creates the NLRB</p></div>
+<div class="tl-step"><span class="tl-year">1947</span><span class="card-heading">Taft–Hartley</span><p>Bans the closed shop; lets states pass right-to-work laws</p></div>
+<div class="tl-step"><span class="tl-year">1962</span><span class="card-heading">EO 10988</span><p>Kennedy lets federal employees bargain</p></div>
+<div class="tl-step"><span class="tl-year">1978</span><span class="card-heading">CSRA</span><p>Puts federal bargaining in statute; creates the FLRA</p></div>
+<div class="tl-step"><span class="tl-year">1981</span><span class="card-heading">PATCO</span><p>Reagan fires about 11,000 striking air traffic controllers</p></div>
+<div class="tl-step"><span class="tl-year">2018</span><span class="card-heading">*Janus*</span><p>Ends agency fees in government</p></div>
+<div class="tl-step accent-step"><span class="tl-year">2025</span><span class="card-heading">EO 14251</span><p>Excludes most federal agencies from bargaining</p></div>
+::::
+
+## Do We Still Need Unions in Government?
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[For]{.card-heading}
+
+- A voice for employees in decisions about their work
+- Clear, written rules for discipline and promotion
+- A check on favoritism and political firing
+:::
+
+::: {.compare-side .accent .fragment}
+[Against]{.card-heading}
+
+- "Management" is the public: officials bargain with groups that help elect them
+- Less flexibility to assign, reward, and discipline
+- Civil service law already protects employees
+:::
+:::::
+
+::: {.question-bar .fragment}
+Where do you stand as an employee? As a manager?
+:::
+
+## Collective Bargaining in Three Steps
+
+:::::::::: {.pathway .lr-path}
+::: pathway-step
+[1. Unit determination]{.card-heading}
+
+<p>Which employees share a "community of interest," and which union represents them</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[2. Negotiation]{.card-heading}
+
+<p>Scope: mandatory, permissive, and prohibited subjects. Some decisions stay management rights</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: {.pathway-step .accent-step}
+[3. Administration]{.card-heading}
+
+<p>Living with the contract: grievances, and labor-management partnerships</p>
+:::
+::::::::::
+
+::: {.takeaway .fragment}
+Most of the work happens in step 3, during the years the contract is in force.
+:::
+
+## When Talks Stall: Impasse
+
+:::::::::: {.pathway .lr-path}
+::: pathway-step
+[Mediation]{.card-heading}
+
+<p>A neutral helps the two sides find a deal. Not binding</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Fact-finding]{.card-heading}
+
+<p>A neutral reviews the facts and writes recommendations. Not binding</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: {.pathway-step .accent-step}
+[Arbitration]{.card-heading}
+
+<p>A neutral decides. Binding; sometimes "final offer," choosing one side's proposal</p>
+:::
+::::::::::
+
+::: {.jd-note .fragment}
+Strikes: federal employees may not strike. State and local rules vary.
+:::
+
+## Grievances: Where the Contract Meets Fairness
+
+:::::::::: {.pathway .lr-path .lr-griev}
+::: pathway-step
+[Employee and steward]{.card-heading}
+
+<p>Raise it with the supervisor</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Department head]{.card-heading}
+
+<p>A written appeal, on a deadline</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Top management]{.card-heading}
+
+<p>HR or the agency head</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: {.pathway-step .accent-step}
+[A neutral]{.card-heading}
+
+<p>An arbitrator or hearing officer decides</p>
+:::
+::::::::::
+
+::: {.takeaway .fragment}
+Tonight's case is decided at the last step.
+:::
+
+## Fair and Inclusive Workplaces {.section-slide data-background-color="#102a43"}
+
+## What Makes a Workplace Fair?
+
+::: big-question
+Think of a decision at work that felt unfair. Was it the outcome, the way it was made, or the way you were treated?
+:::
+
+## Organizational Justice
+
+::::::: {.system-grid .roomy-grid .lr-justice}
+::: system-item
+[Distributive]{.card-heading}
+
+<p>Are outcomes, like pay, promotions, and assignments, allocated fairly?</p>
+:::
+
+::: {.system-item .fragment}
+[Procedural]{.card-heading}
+
+<p>Is the process used to reach them fair and consistent?</p>
+:::
+
+::: {.system-item .fragment}
+[Interactional]{.card-heading}
+
+<p>Is the decision explained, and are people treated with respect?</p>
+:::
+:::::::
+
+::: {.takeaway .fragment}
+People accept decisions they don't like when they believe the process was fair.
+:::
+
+## Due Process, Revisited
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[Substantive due process]{.card-heading}
+
+<p>Government can't take life, liberty, or property without good reason</p>
+:::
+
+::: compare-side
+[Procedural due process]{.card-heading}
+
+<p>Notice, an explanation, a chance to respond, and an explained decision</p>
+:::
+:::::
+
+::: {.takeaway .fragment}
+*Cleveland Board of Education v. Loudermill* (1985): a public employee with a property right in the job gets a hearing **before** termination.
+:::
+
+## Equal Employment Opportunity Law
+
+:::: {.timeline .lr-tl}
+<div class="tl-step"><span class="tl-year">1963</span><span class="card-heading">Equal Pay Act</span><p>Equal pay for substantially equal work</p></div>
+<div class="tl-step accent-step"><span class="tl-year">1964</span><span class="card-heading">Title VII</span><p>Race, color, religion, sex, national origin</p></div>
+<div class="tl-step"><span class="tl-year">1967</span><span class="card-heading">ADEA</span><p>Age, 40 and over</p></div>
+<div class="tl-step"><span class="tl-year">1973</span><span class="card-heading">Rehabilitation Act</span><p>Disability, in federal employment and contracts</p></div>
+<div class="tl-step"><span class="tl-year">1978</span><span class="card-heading">Pregnancy Discrimination Act</span><p>Pregnancy and childbirth</p></div>
+<div class="tl-step"><span class="tl-year">1990</span><span class="card-heading">ADA</span><p>Disability, extended to state, local, and private employers</p></div>
+<div class="tl-step"><span class="tl-year">2008</span><span class="card-heading">GINA</span><p>Genetic information</p></div>
+::::
+
+## Two Kinds of Sexual Harassment
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[Quid pro quo]{.card-heading}
+
+<p>A job benefit is tied to submitting to sexual conduct</p>
+:::
+
+::: {.compare-side .accent}
+[Hostile work environment]{.card-heading}
+
+<p>Conduct severe or pervasive enough to change the conditions of work</p>
+:::
+:::::
+
+::: {.jd-note .fragment}
+*Meritor Savings Bank v. Vinson* (1986): sexual harassment is sex discrimination under Title VII.
+:::
+
+::: {.question-bar .fragment}
+Does it matter whether the harasser meant it?
+:::
+
+## What the Employer Has to Have in Place
+
+:::::::::: {.pathway .lr-path .lr-employer}
+::: pathway-step
+[A policy]{.card-heading}
+
+<p>Written, and communicated</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Training]{.card-heading}
+
+<p>Especially for supervisors</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: pathway-step
+[Ways to report]{.card-heading}
+
+<p>Including one that bypasses the supervisor</p>
+:::
+
+::: pathway-arrow
+→
+:::
+
+::: {.pathway-step .accent-step}
+[Prompt action]{.card-heading}
+
+<p>Investigate, discipline in proportion, no retaliation</p>
+:::
+::::::::::
+
+::: {.jd-note .fragment}
+*Faragher v. City of Boca Raton* and *Burlington Industries v. Ellerth* (1998): these steps are the employer's defense when a supervisor harasses.
+:::
+
+## Activity: The List {.activity-slide data-background-color="#176b87"}
+
+::: activity-prompt
+You work in HR for a mid-sized city. Your best friend works for the city too, is about to have a baby, and closes on a new house in 45 days.
+:::
+
+::: activity-prompt
+A memo from the city manager lists the employees who will be let go in a reduction in force over the next 30 days. Your friend is on it.
+:::
+
+::: jd-questions
+1.  Do you tell your friend?
+2.  Which kind of justice is at stake: for your friend, and for everyone else on the list?
+:::
+
+::: activity-close
+5 minutes with a neighbor, then a show of hands
+:::
+
+## Bringing It Together
+
+::::: {.compare .jd .roomy .jd-cols}
+::: compare-side
+[Labor relations]{.card-heading}
+
+- Bargaining in good faith
+- Grievance procedures
+- A neutral at the end
+:::
+
+::: compare-side
+[Fair workplaces]{.card-heading}
+
+- Organizational justice
+- Due process
+- EEO law and harassment policy
+:::
+:::::
+
+::: {.takeaway .fragment}
+Both chapters are about the same thing: a fair process, so that decisions people dislike still hold.
+:::
+
+## Case Study: Jailhouse Follies {.section-slide data-background-color="#102a43"}
+
+## Next Week…
+
+**November 9: Workplace safety and work-life balance**
+
+Guy & Sowa, Chapters 12 and 13
+
+**Case:** The Blast in Centralia No. 5

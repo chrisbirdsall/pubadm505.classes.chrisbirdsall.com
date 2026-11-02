@@ -644,3 +644,25 @@ $backgroundColor: #f7f4ed;
 .reveal .pm-five-gone p { color: var(--coral); font-weight: 700; }
 .reveal .pm-four-cap { border-left: 8px solid var(--coral); background: var(--coral); color: #fff; font-size: .7em; font-weight: 700; padding: .35em .8em; }
 .reveal .pm-four + .question-bar { margin-top: .7em; }
+
+/* Week 11: labor relations and fair workplaces (lr-) */
+.reveal .lr-eo { grid-template-columns: repeat(3, 1fr); }
+.reveal .lr-eo .tl-step p { font-size: .74em; }
+.reveal .lr-eo .tl-step .card-heading { font-size: .95em; }
+.reveal .lr-tl { grid-template-columns: repeat(4, 1fr); }
+.reveal .lr-tl .tl-step p { font-size: .7em; }
+.reveal .lr-regimes .system-col p { margin: 0 0 .35em; font-size: .8em; line-height: 1.3; }
+.reveal .lr-regimes .system-col .card-heading { text-transform: none; font-variant: normal; letter-spacing: 0; }
+.reveal .lr-regimes .lr-idaho { border-top-color: var(--coral); background: #f8e9e4; }
+.reveal .lr-regimes .lr-idaho .card-heading { color: var(--coral); }
+.reveal .lr-path { align-items: stretch; }
+.reveal .lr-path .pathway-arrow { align-self: center; }
+.reveal .lr-path .pathway-step .card-heading { font-size: 1.05em; font-weight: 700; }
+.reveal .lr-path .pathway-step p { margin: 0; font-size: .8em; line-height: 1.3; }
+.reveal .lr-griev .pathway-step p, .reveal .lr-employer .pathway-step p { font-size: .74em; }
+.reveal .lr-griev .pathway-step .card-heading, .reveal .lr-employer .pathway-step .card-heading { font-size: .95em; }
+.reveal .lr-justice { grid-template-columns: repeat(3, 1fr); }
+.reveal .system-grid.roomy-grid.lr-justice .system-item .card-heading { font-size: 1.1em; }
+.reveal .system-grid.roomy-grid.lr-justice .system-item { padding: .8em .8em; }
+.reveal .system-grid.roomy-grid.lr-justice .system-item p { margin: 0; font-size: .86em; }
+.reveal .activity-slide .activity-prompt + .activity-prompt { margin-top: -.2em; }
