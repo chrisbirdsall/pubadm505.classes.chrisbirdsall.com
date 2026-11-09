@@ -669,3 +669,51 @@ $backgroundColor: #f7f4ed;
 .reveal .pm-stay.lr-stay .pm-stay-card { padding: .5em .7em .6em; }
 .reveal .pm-stay.lr-stay .pm-stay-card p { font-size: .8em; }
 .reveal .activity-slide .lr-stay + .jd-questions ol, .reveal .activity-slide .activity-prompt + .jd-questions ol { font-size: .85em; }
+
+/* Week 12: workplace safety and work/life balance (ws-) */
+.reveal .ws-accent { border-top-color: var(--coral) !important; background: #f8e9e4 !important; }
+.reveal .ws-accent .card-heading { color: var(--coral) !important; }
+.reveal .system-grid.roomy-grid.lr-justice.ws-six .system-item .card-heading { font-size: .98em; }
+.reveal .system-grid.roomy-grid.lr-justice.ws-six .system-item p { font-size: .78em; }
+.reveal .system-grid.ws-six .ws-accent { border-color: var(--coral); }
+.reveal .system-grid.lr-justice.ws-four { grid-template-columns: repeat(4, 1fr); }
+.reveal .system-grid.roomy-grid.lr-justice.ws-four .system-item { display: flex; align-items: center; justify-content: center; text-align: center; min-height: 3.6em; }
+.reveal .system-grid.roomy-grid.lr-justice.ws-four .system-item .card-heading { margin: 0; }
+.reveal .system-grid.lr-justice.ws-eight { grid-template-columns: repeat(4, 1fr); }
+.reveal .system-grid.roomy-grid.lr-justice.ws-eight .system-item .card-heading { font-size: .92em; }
+.reveal .system-grid.roomy-grid.lr-justice.ws-eight .system-item p { font-size: .76em; }
+.reveal .ws-fig { text-align: center; }
+.reveal .ws-fig p { margin: 0; }
+.reveal .ws-fig img { max-height: 670px; margin: 0; }
+.reveal .ws-fig-short img { max-height: 520px; }
+.reveal .ws-fig-short ~ .takeaway { margin-top: .4em; font-size: .72em; }
+.reveal .ws-fig-short ~ .question-bar { margin-top: .4em; font-size: .68em; padding: .4em .7em; }
+.reveal .ws-fig-short ~ .source-line, .reveal .ws-fig ~ .source-line { margin-top: .5em; }
+.reveal .ws-question { font-size: 1.2em; font-weight: 750; line-height: 1.14; letter-spacing: -.025em; color: var(--ink); border-left: 7px solid var(--coral); padding-left: .55em; margin-bottom: .8em; }
+.reveal .ws-small .system-col p { font-size: .72em; }
+.reveal .ws-four-stats .stat-number { font-size: 1.6em; white-space: nowrap; }
+.reveal .ws-four-stats .stat p { font-size: .68em; }
+.reveal .ws-quote { font-size: 1.5em; font-weight: 750; line-height: 1.12; letter-spacing: -.03em; color: var(--ink); }
+.reveal .ws-attrib { font-size: .62em; color: var(--muted); margin: .5em 0 .9em; }
+.reveal .ws-one-stat .stat { flex: 0 1 62%; display: flex; align-items: center; gap: .6em; }
+.reveal .ws-one-stat .stat p { margin: 0; }
+.reveal .lr-regimes.ws-big .system-col .card-heading { font-size: 1.15em; }
+.reveal .lr-regimes.ws-big .system-col p { font-size: 1em; line-height: 1.3; }
+.reveal .lr-regimes.ws-small .system-col .card-heading { font-size: 1em; }
+.reveal .lr-regimes.ws-small .system-col p { font-size: .88em; line-height: 1.28; }
+.reveal .lr-path.ws-big .pathway-step .card-heading { font-size: 1.1em; }
+.reveal .lr-path.ws-big .pathway-step p { font-size: .95em; line-height: 1.28; }
+.reveal .stat-row.ws-big .stat-number { font-size: 3.2em; }
+.reveal .stat-row.ws-big .stat p { font-size: 1em; }
+.reveal .system-grid.roomy-grid.lr-justice.ws-six .system-item .card-heading { font-size: 1.12em; }
+.reveal .system-grid.roomy-grid.lr-justice.ws-six .system-item p { font-size: .98em; }
+.reveal .system-grid.roomy-grid.lr-justice.ws-four .system-item .card-heading { font-size: 1.15em; }
+.reveal .system-grid.roomy-grid.lr-justice.ws-eight .system-item .card-heading { font-size: 1.08em; }
+.reveal .system-grid.roomy-grid.lr-justice.ws-eight .system-item p { font-size: .95em; }
+.reveal .ws-four-stats .stat-number { font-size: 1.75em; }
+.reveal .ws-four-stats .stat p { font-size: .84em; }
+.reveal .ws-lead .lead-in, .reveal .lead-in.ws-lead { font-size: .92em; }
+.reveal .ws-one-stat .stat p { font-size: 1em; }
+.reveal .activity-slide.ws-roomy .jd-questions ol { font-size: 1em; }
+.reveal .activity-slide.ws-roomy .activity-close { font-size: .8em; }
+.reveal .activity-slide.ws-roomy .pm-stay.lr-stay .pm-stay-card p { font-size: .92em; }
