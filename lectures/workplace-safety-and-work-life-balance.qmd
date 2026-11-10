@@ -22,7 +22,7 @@ format:
 
 ::: hero-statement
 - Workplace safety
-- Work/life balance, and some of my own telework research
+- Work/life balance
 - After the break: The Blast in Centralia No. 5
 :::
 
