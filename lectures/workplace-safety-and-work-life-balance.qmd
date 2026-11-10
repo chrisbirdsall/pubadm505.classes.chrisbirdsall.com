@@ -179,44 +179,6 @@ You see it happen to a coworker. What's your role?
 :::
 :::::::
 
-## Virginia Beach, May 31, 2019
-
-:::::::::: {.pathway .lr-path .ws-big}
-::: pathway-step
-[What happened]{.card-heading}
-
-<p>A city employee killed 12 people at the municipal center</p>
-:::
-
-::: pathway-arrow
-→
-:::
-
-::: pathway-step
-[The response]{.card-heading}
-
-<p>Counseling, and supervising the people who were there</p>
-:::
-
-::: pathway-arrow
-→
-:::
-
-::: {.pathway-step .accent-step}
-[After-action report]{.card-heading}
-
-<p>Independent review: 58 recommendations</p>
-:::
-::::::::::
-
-::: {.takeaway .fragment}
-27 of the 58 recommendations concerned human resources.
-:::
-
-::: source-line
-Hillard Heintze, independent review for the City of Virginia Beach (Nov. 2019), as reported by Route Fifty.
-:::
-
 ## Activity: Find It {.activity-slide .ws-roomy data-background-color="#176b87"}
 
 ::: activity-prompt
